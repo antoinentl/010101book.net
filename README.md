@@ -8,6 +8,10 @@ Ceci est le dépôt des fichiers qui composent le *livre web* : [https://www.010
 - [https://www.010101book.net/fr/epub/le_livre_010101_1971_2015_marie_lebert.epub](https://www.010101book.net/fr/epub/le_livre_010101_1971_2015_marie_lebert.epub)
 
 
+## Un site web statique
+Le site web [https://www.010101book.net/fr](https://www.010101book.net/fr) est généré par [Jekyll](http://jekyllrb.com/), un générateur de site statique.
+
+
 ## Un livre web
 Livre web, web book, webbook, livre site, autant d'expressions pour décrire un livre qui prend la forme d'un site web. Pour plus d'informations :
 

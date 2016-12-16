@@ -26,5 +26,8 @@ Si vous souhaitez en savoir plus sur ce projet -- *livre web* -- vous pouvez con
 
 Le site web www.010101book.net est herbergé par la société OVH - 2 rue Kellermann 59100 Roubaix (France).
 
+## Code source
+Vous pouvez accéder au code source de ce livre web, ouvrir des tickets pour signaler des problèmes ou des suggestions ou proposer des modifications, via le dépôt GitHub : [https://github.com/antoinentl/010101book.net](https://github.com/antoinentl/010101book.net)
+
 ## Cookies
 L'utilisateur est informé que lors de ses visites sur le site, un cookie peut s'installer automatiquement et être conservé temporairement en mémoire ou sur son disque dur. Un cookie est un élément qui ne permet pas d'identifier l'utilisateur mais sert à l'enregistrement des informations relatives à la navigation de celui-ci sur le site internet. Les utilisateurs du site reconnaissent avoir été informés de cette pratique et autorisent le site www.010101book.net à l'employer. Ils pourront désactiver ce cookie par l'intermédiaire des paramètres figurant au sein de leur logiciel de navigation.
