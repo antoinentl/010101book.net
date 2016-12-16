@@ -1,11 +1,10 @@
 # Site settings
 title: Le livre 010101 (1971-2015)
 email: contact@010101book.net
-description: > # this means to ignore newlines until "baseurl:"
-  Datée de juin 2015, une grande saga du livre numérique de juillet 1971 à nos jours, basée sur le suivi de l'actualité du sujet au fil des ans et sur une centaine d’entretiens poursuivis pendant plusieurs années en Europe, en Afrique, en Asie et dans les Amériques.
+description: "Datée de juin 2015, une grande saga du livre numérique de juillet 1971 à nos jours, basée sur le suivi de l'actualité du sujet au fil des ans et sur une centaine d’entretiens poursuivis pendant plusieurs années en Europe, en Afrique, en Asie et dans les Amériques."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.010101book.net" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-exclude: [Rakefile, content/es, es]
+exclude: [Rakefile]
