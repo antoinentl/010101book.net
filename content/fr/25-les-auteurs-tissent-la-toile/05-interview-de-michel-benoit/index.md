@@ -1,0 +1,11 @@
+---
+layout: page
+title: Interview de Michel Benoît
+chapter: Les auteurs tissent leur toile
+permalink: /fr/les-auteurs-tissent-la-toile/interview-de-michel-benoit/
+order: 2550
+published: true
+---
+<p>Michel Benoît habite Montréal, au Québec. Auteur de nouvelles policières, de récits noirs et d’histoires fantastiques, il utilise l’internet pour élargir ses horizons et pour «abolir le temps et la distance». Il relate en juin 2000: «L’internet s’est imposé à moi comme outil de recherche et de communication, essentiellement. Non, pas essentiellement. Ouverture sur le monde aussi. Si l’on pense “recherche”, on pense “information”. Voyez-vous, si l’on pense “écriture”, “réflexion”, on pense “connaissance”, “recherche”. Donc on va sur la toile pour tout, pour une idée, une image, une explication. Un discours prononcé il y a vingt ans, une peinture exposée dans un musée à l’autre bout du monde. On peut donner une idée à quelqu’un qu’on n’a jamais vu, et en recevoir de même. La toile, c’est le monde au clic de la souris. On pourrait penser que c’est un beau cliché. Peut-être bien, à moins de prendre conscience de toutes les implications de la chose. L’instantanéité, l’information tout de suite, maintenant. Plus besoin de fouiller, de se taper des heures de recherche. On est en train de faire, de produire. On a besoin d’une information. On va la chercher, immédiatement. De plus, on a accès aux plus grandes bibliothèques, aux plus importants journaux, aux musées les plus prestigieux. (...)</p>
+
+<p>Mon avenir professionnel en inter-relation avec le net, je le vois exploser. Plus rapide, plus complet, plus productif. Je me vois faire en une semaine ce qui m’aurait pris des mois. Plus beau, plus esthétique. Je me vois réussir des travaux plus raffinés, d’une facture plus professionnelle, même et surtout dans des domaines connexes à mon travail, comme la typographie, où je n’ai aucune compétence. La présentation, le transport de textes, par exemple. Le travail simultané de plusieurs personnes qui seront sur des continents différents. Arriver à un consensus en quelques heures sur un projet, alors qu’avant le net, il aurait fallu plusieurs semaines, parlons de mois entre les Francophones. Plus le net ira se complexifiant, plus l’utilisation du net deviendra profitable, nécessaire, essentielle.»</p>

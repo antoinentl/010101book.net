@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Travlang: voyages et langues"
+chapter: Dictionnaires de langues en ligne - première génération
+permalink: /fr/dictionnaires-de-langues-en-ligne-premiere-generation/travlang/
+order: 3110
+published: true
+---
+<p>Comment Travlang débute-t-il? En 1994, Michael C. Martin, alors étudiant en physique, crée d’abord une rubrique intitulée Foreign Languages for Travelers sur le site de son université à New York pour inciter d’autres étudiants à apprendre des langues sur le web. Cette rubrique s'étoffe rapidement et rencontre un grand succès. L'année suivante, il l’intègre dans un nouveau site, Travlang, dédié à la fois aux voyages et aux langues. Très populaire, Travlang est nommé meilleur site de voyages en 1997. Devenu chercheur en physique au Lawrence Berkeley National Laboratory (Berkeley, Californie), Michael C. Martin continue de gérer Travlang lui-même sur son temps libre.</p>
+
+<p>En 1998, la section Foreign Languages for Travelers permet d’apprendre les rudiments de soixante langues sur le web et la section Translating Dictionaries donne accès à des dictionnaires gratuits dans quinze langues (afrikaans, allemand, danois, espagnol, espéranto, finnois, français, frison, hollandais, hongrois, italien, latin, norvégien, portugais, tchèque). Ces dictionnaires sont le plus souvent sommaires et de qualité inégale. D’autres sections proposent des liens vers des services de traduction, des écoles de langue, des librairies multilingues, etc. On peut également réserver son hôtel, sa voiture ou son billet d’avion, s’informer des taux de change en cours ou encore consulter un répertoire d’autres sites de langues et de voyages.</p>
+
+<p>Michael C. Martin écrit en août 1998: «Je pense que le web est un endroit idéal pour rapprocher les cultures et les personnes, et ceci inclut d'être multilingue. Notre site Travlang est très populaire pour cette raison, et les gens aiment le contact avec d'autres parties du monde. (...) L'internet est vraiment un outil important pour communiquer avec des gens avec lesquels on n'aurait pas l'occasion de dialoguer autrement. J'apprécie vraiment la collaboration générale qui a rendu possibles les pages de Foreign Languages for Travelers.» En ce qui concerne l’avenir, «je pense que les traductions intégrales informatisées vont devenir monnaie courante, et qu'elles permettront de communiquer à la base avec davantage de gens. Ceci aidera aussi à amener davantage l'internet vers le monde non anglophone.» Travlang est ensuite racheté par la société GourmetMarket.com en février 1999 avant d’être racheté par la société iiGroup en janvier 2000. Le site - qui se consacre désormais uniquement aux voyages - compte 2 millions de visiteurs par mois en juillet 2000.</p>

@@ -1,0 +1,11 @@
+---
+layout: page
+title: L’eBookStore d’Amazon
+chapter: Amazon, pionnier du cybercommerce
+permalink: /fr/amazon-pionnier-du-cybercommerce/l-ebookstore-d-amazon/
+order: 1140
+published: true
+---
+<p>En novembre 2000, trois mois après l’ouverture de l’eBookStore de Barnes &amp; Noble.com, Amazon ouvre son propre eBookStore avec un catalogue de mille livres numériques. Dans l’optique de ce lancement, la société signe auparavant deux partenariats en août 2000, l’un avec Microsoft pour proposer des livres lisibles sur le Microsoft Reader, et l’autre avec Adobe pour proposer des titres lisibles sur l'Acrobat Reader et le Glassbook Reader (Adobe ayant racheté la société Glassbook à la même date). En avril 2001, Amazon conclut un nouveau partenariat avec Adobe pour la mise en vente de 2.000 livres numériques lisibles sur l'Acrobat eBook Reader (le nouveau logiciel d’Adobe gérant les livres sous droits). Ces livres sont notamment des titres de grands éditeurs, des guides de voyages et des livres pour enfants. En septembre 2001, Yahoo! emboîte le pas à Amazon et Barnes &amp; Noble.com en créant son propre eBookStore suite à des accords passés avec de grands éditeurs: Penguin Putnam, Simon &amp; Schuster, Random House et HarperCollins.</p>
+
+<p>Amazon rachète ensuite la société française Mobipocket en avril 2005 – avec son format, son logiciel de lecture et ses livres - en prévision du lancement de sa propre liseuse, le Kindle. Le Kindle voit le jour en novembre 2007 avec un catalogue de 80.000 livres numériques. 538.000 liseuses sont vendues en 2008. Deux autres modèles, le Kindle 2 et le Kindle DX (avec un écran plus grand), sont lancés respectivement en février et mai 2009. Amazon rachète aussi la société Audible.com (en janvier 2009) et sa collection de livres, journaux et magazines audionumériques, à savoir 80.000 titres téléchargeables sur baladeur et smartphone. Le catalogue d'Amazon compterait 450.000 titres en mars 2010. Mais on ne compte pas le nombre de librairies indépendantes qui ferment leurs portes.</p>

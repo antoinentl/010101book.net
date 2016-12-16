@@ -1,0 +1,13 @@
+---
+layout: page
+title: Interview de Bruno Didier
+chapter: Du bibliothécaire au cyberthécaire
+permalink: /fr/du-bibliothecaire-au-cyberthecaire/interview-de-bruno-didier/
+order: 2430
+published: true
+---
+<p>Bruno Didier est bibliothécaire à l’Institut Pasteur de Paris, une fondation privée spécialisée dans la prévention et le traitement des maladies infectieuses par la recherche, l’enseignement et des actions de santé publique, avec plusieurs instituts dans le monde. Séduit par les perspectives qu’offre l’internet pour la recherche documentaire, Bruno crée le site web de la bibliothèque en 1996 et devient son webmestre.</p>
+
+<p>Il explique en août 1999: «Le site web de la bibliothèque a pour vocation principale de servir la communauté pasteurienne. Il est le support d’applications devenues indispensables à la fonction documentaire dans un organisme de cette taille: bases de données bibliographiques, catalogue, commande de documents et bien entendu accès à des périodiques en ligne (un peu plus d’une centaine actuellement). C’est également une vitrine pour nos différents services, en interne mais aussi dans toute la France et à l’étranger. Il tient notamment une place importante dans la coopération documentaire avec les instituts du réseau Pasteur à travers le monde. Enfin j’essaie d’en faire une passerelle adaptée à nos besoins pour la découverte et l’utilisation d’internet. (...) Je développe et maintiens les pages du serveur, ce qui s’accompagne d’une activité de veille régulière. Par ailleurs je suis responsable de la formation des usagers, ce qui se ressent dans mes pages. Le web est un excellent support pour la formation, et la plupart des réflexions actuelles sur la formation des usagers intègrent cet outil.»</p>
+
+<p>Son activité professionnelle a changé de manière radicale, tout comme celle de ses collègues. «C’est à la fois dans nos rapports avec l’information et avec les usagers que les changements ont eu lieu, explique-t-il. Nous devenons de plus en plus des médiateurs, et peut-être un peu moins des conservateurs. Mon activité actuelle est typique de cette nouvelle situation: d’une part dégager des chemins d’accès rapides à l’information et mettre en place des moyens de communication efficaces, d’autre part former les utilisateurs à ces nouveaux outils. Je crois que l’avenir de notre métier passe par la coopération et l’exploitation des ressources communes. C’est un vieux projet certainement, mais finalement c’est la première fois qu’on dispose enfin des moyens de le mettre en place.»</p>

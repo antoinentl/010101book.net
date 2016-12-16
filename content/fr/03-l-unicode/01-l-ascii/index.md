@@ -1,0 +1,13 @@
+---
+layout: page
+title: "L’ASCII, premier système d’encodage"
+chapter: L'Unicode
+permalink: /fr/l-unicode/l-ascii/
+order: 310
+published: true
+---
+<p>Le premier système d’encodage est l’ASCII (American Standard Code for Information Interchange – Code standard américain pour les échanges d’information), lancé en 1963 pour traiter l’anglais. Publié aux États-Unis par l’American National Standards Institute (ANSI – Institut américain pour les standards nationaux), l'ASCII est un code standard de 128 caractères convertis en langage binaire sur sept bits (A devient «1000001», B devient par «1000010», etc.). Les 128 caractères comprennent 33 caractères de contrôle (qui ne représentent donc pas de symbole écrit) et 95 caractères imprimables: les 26 lettres sans accent en majuscules (A-Z) et minuscules (a-z), les chiffres, les signes de ponctuation et quelques caractères spéciaux, le tout correspondant aux touches du clavier anglophone QWERTY (différent du clavier français AZERTY).</p>
+
+<p>L'ASCII permet uniquement la lecture de l’anglais (et du latin), et ne permet donc pas de prendre en compte les lettres accentuées présentes dans bon nombre de langues européennes (français, espagnol, allemand, etc.), et à plus forte raison les langues utilisant d’autres alphabets (arabe, grec, russe, etc.) et les langues non alphabétiques (chinois, coréen, japonais, etc.). Ceci ne pose pas de problème majeur les premières années, tant que l’échange de fichiers électroniques se limite au public anglophone, à savoir 95% des usagers au début des années 1990. Avec le développement de l’internet hors de la sphère anglophone suite à l’invention du web en 1990 et le lancement du navigateur Mosaic en décembre 1993, le plurilinguisme devient bientôt une nécessité vitale. Des variantes de l’ASCII sur huit bits sont disponibles pour traiter 256 caractères et prendre en compte les caractères accentués de quelques langues européennes. La variante pour le français, l’espagnol et l’allemand (entre autres) est la norme ISO 8859-1 (appelée aussi ISO Latin-1).</p>
+
+<p>Puis l’échange des données s’internationalise encore davantage. Même avec des variantes de l’ASCII, la situation devient compliquée, et le passage de l’ASCII original à ses différentes variantes devient un véritable casse-tête, les problèmes étant entre autres la multiplication des variantes, la corruption des données dans les échanges informatiques ou encore l’incompatibilité des systèmes entre eux, les pages ne pouvant être affichées que dans une langue à la fois.</p>

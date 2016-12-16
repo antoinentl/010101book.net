@@ -1,0 +1,13 @@
+---
+layout: page
+title: L’expansion grâce aux «associés»
+chapter: Amazon, pionnier du cybercommerce
+permalink: /fr/amazon-pionnier-du-cybercommerce/l-expansion-grace-aux-associes/
+order: 1120
+published: true
+---
+<p>Au printemps 1997, Amazon.com - que tout le monde appelle désormais Amazon - décide de s'inspirer du système de sites affiliés lancé trois mois plus tôt au Royaume-Uni par l'Internet Bookshop, qui est la plus grande librairie en ligne européenne. Tout détenteur d'un site web peut vendre des livres appartenant au catalogue d'Amazon et toucher un pourcentage de 15% sur les ventes. L'«associé(e)» sélectionne les titres du catalogue qui l'intéressent, en fonction de ses centres d'intérêt, et rédige ses propres résumés. Amazon reçoit les commandes par son intermédiaire, expédie les livres, rédige les factures et lui envoie un rapport hebdomadaire d'activité avec le règlement correspondant.</p>
+
+<p>Le réseau d'Amazon compte 30.000 sites «associés» au printemps 1998 et 60.000 sites «associés» en juin 1998, y compris des sites de sociétés connues (Adobe, InfoBeat, Kemper Funds, PR Newswire, Travelocity, Virtual Vineyards, Xoom, etc.), qui sont autant de vitrines supplémentaires pour la librairie en ligne. En juillet 1998, Amazon compte 1,5 million de clients dans 160 pays. Si la librairie en ligne est toujours déficitaire (elle le sera jusqu’au deuxième trimestre 2003 inclus), sa cotation boursière est excellente suite à une introduction à la Bourse de New York en mai 1997.</p>
+
+<p>Principale chaîne de librairies traditionnelles aux États-Unis, avec 480 librairies réparties dans tout le pays, Barnes &amp; Noble décide de se lancer lui aussi dans la vente de livres en ligne en devenant d’abord en mars 1997 le partenaire exclusif du fournisseur internet America OnLine (AOL) pour la vente de livres à ses adhérents puis en créant en mai 1997 son propre site barnesandnoble.com, en partenariat avec le géant des médias Bertelsmann. (Barnes &amp; Noble rachètera la part de Bertelsmann six ans plus tard, en juillet 2003.) Avec un système efficace de sites affiliés puis un nouveau site lancé en mai 1998, Barnes &amp; Noble.com devient rapidement le principal concurrent d’Amazon et déclenche une guerre des prix - puisque le prix du livre est libre aux États-Unis – à la grande joie des clients qui profitent de cette course aux rabais pour faire une économie de 20 à 40% sur certains titres, quand ils ne se voient pas offrir des réductions allant jusqu’à 50%.</p>

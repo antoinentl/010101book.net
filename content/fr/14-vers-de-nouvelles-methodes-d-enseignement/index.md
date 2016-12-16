@@ -1,0 +1,9 @@
+---
+layout: page
+title: Vers de nouvelles méthodes d'enseignement
+permalink: /fr/vers-de-nouvelles-methodes-d-enseignement/
+order: 1400
+---
+<p>L’information contenue dans les livres reste la même, au moins pendant un certain temps, alors que l'internet privilégie les informations récentes et régulièrement actualisées. Lors d'une conférence organisée en septembre 1996 par l'IFIP (International Federation of Information Processing), la communication de Dale Spender, professeure et chercheuse, tente de cerner les changements apportés par l'internet dans l'acquisition du savoir et les méthodes d'enseignement. De plus en plus de professeurs tirent parti des nouvelles technologies, par exemple Patrick Rebollar à Tokyo (Japon), Robert Beard à Lewisburg (Pennsylvanie), Murray Suid à Palo Alto (Californie), Russon Wooldridge à Toronto (Canada) et Marie-Joseph Pierre à Paris (France). Par la suite, de grandes universités lancent leur OpenCourseWare (OCW), à savoir un portail proposant le matériel pédagogique de leurs cours en accès libre et gratuit.</p>
+
+<p>Vinton Cerf, souvent appelé le père de l’internet (il crée ses protocoles en 1974), fonde l'Internet Society (ISOC) en 1992 pour coordonner et promouvoir le développement du réseau. Lors d’un entretien avec un journaliste du quotidien <em>Libération</em>, il explique en janvier 1998: «Le réseau fait deux choses (...): comme les livres, il permet d’accumuler de la connaissance. Mais, surtout, il la présente sous une forme qui la met en relation avec d’autres informations. Alors que, dans un livre, l’information est maintenue isolée.» Des professeurs tentent donc de repenser la relation au savoir et de repenser aussi leurs méthodes d’enseignement.</p>

@@ -1,0 +1,17 @@
+---
+layout: page
+title: yourDictionary.com
+chapter: Dictionnaires de langues en ligne - première génération
+permalink: /fr/dictionnaires-de-langues-en-ligne-premiere-generation/yourdictionary-com/
+order: 3160
+published: true
+---
+<p>Professeur de langues à l’Université Bucknell (Lewisburg, Pennsylvanie), Robert Beard cofonde en février 2000 le portail yourDictionary.com pour «toutes les langues sans exception». Ce portail intègre son premier site, A Web of Online Dictionaries, créé dès 1995 pour proposer des liens vers des dictionnaires de langues en ligne et autres outils linguistiques (dictionnaires multilingues, dictionnaires anglophones spécialisés, thésaurus, vocabulaires, grammaires, glossaires et méthodes de langues), sans oublier la section Linguistic Fun, réservée aux non spécialistes.</p>
+
+<p>Robert Beard raconte en septembre 1998: «On a d'abord craint que le web représente un danger pour le multilinguisme, étant donné que le langage HTML et d'autres langages de programmation sont basés sur l'anglais et qu'on trouve tout simplement plus de sites web en anglais que dans toute autre langue. Cependant, le site web que je gère montre que le multilinguisme est très présent et que le web peut en fait permettre de préserver des langues menacées de disparition. Je propose maintenant des liens vers des dictionnaires dans 150 langues différentes et des grammaires dans 65 langues différentes. De plus, comme les concepteurs de logiciels de navigation manifestent une attention nouvelle pour la diversité des langues dans le monde, ceci va encourager la présence de davantage encore de sites web dans différentes langues.»</p>
+
+<p>Quatre ans après le lancement de son premier site, Robert Beard cofonde le portail yourDictionary.com. Il relate en janvier 2000: «Nos nouvelles idées sont nombreuses. Nous projetons de travailler avec l'Endangered Language Fund aux États-Unis et en Grande-Bretagne pour rassembler des fonds pour cette fondation et nous publierons les résultats sur notre site. Nous aurons des groupes de discussion et des bulletins d'information sur les langues. Il y aura des jeux de langue destinés à se distraire et à apprendre les bases de la linguistique. La page Linguistic Fun deviendra un journal en ligne avec des extraits courts, intéressants et même amusants dans différentes langues, choisis par des experts du monde entier.»</p>
+
+<p>Soucieux de servir toutes les langues sans exception, le portail propose l'Endangered Language Repository, une section spécifique consacrée aux langues menacées. Robert Beard écrit à la même date: «Les langues menacées sont essentiellement des langues non écrites. Un tiers seulement des quelque 6.000 langues existant dans le monde sont à la fois écrites et parlées. Je ne pense pourtant pas que le web va contribuer à la perte de l’identité des langues et j’ai même le sentiment que, à long terme, il va renforcer cette identité. Par exemple, de plus en plus d’Indiens d’Amérique contactent des linguistes pour leur demander d’écrire la grammaire de leur langue et de les aider à élaborer des dictionnaires. Pour eux, le web est un instrument à la fois accessible et très précieux d’expression culturelle.»</p>
+
+<p>Devenu un vaste portail, yourDictionary.com répertorie 1.800 dictionnaires dans 250 langues en septembre 2003, ainsi que de nombreux outils linguistiques (vocabulaires, grammaires, glossaires, méthodes de langues, etc.). Le portail propose 2.500 dictionnaires et grammaires dans 300 langues en avril 2007.</p>

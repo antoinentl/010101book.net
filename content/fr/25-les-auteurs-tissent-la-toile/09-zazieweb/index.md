@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Zazieweb, portail littéraire en ligne"
+chapter: Les auteurs tissent leur toile
+permalink: /fr/les-auteurs-tissent-la-toile/zazieweb/
+order: 2590
+published: true
+---
+<p>Outre <em>Édition-Actu</em>, une lettre d’information hebdomadaire que l’éditeur électronique CyLibris envoie par courriel pour faire le point sur l’actualité littéraire, un magazine littéraire en ligne suit pas à pas les mutations du livre pendant douze ans. Il s’agit de Zazieweb, lancé en juin 1996 par Isabelle Aveline en tant que site web indépendant conçu pour tous les amoureux du livre, professionnels et amateurs. D’abord libraire puis journaliste avant de concevoir des sites intranet et internet, Isabelle Aveline fonde Zazieweb sur son temps libre par passion pour le livre. «Le site Zazieweb débarque sur la toile dans un no man’s land littéraire», lit-on sur le site. Le succès est immédiat.</p>
+
+<p>Zazieweb est d’abord une revue en ligne, avec un graphisme d’Olivier Cornu. On y trouve un éditorial, une rubrique d’actualité, un agenda, une revue de presse, un annuaire des sites et un self-service multimédia. Puis le site évolue, comme expliqué sur son nouveau site web lancé en 1999: «Zazieweb est un site World Wide Web professionnel et grand public indépendant, spécifiquement dédié aux libraires, éditeurs... et grand public de culture "livre". Conçu comme une librairie virtuelle, un espace de documentation, d’orientation et de ressources pour un public de culture "papier" s’intéressant à internet, il se situe aux frontières de l’écrit et de l’édition électronique. L’originalité du traitement des rubriques par rapport à un média papier étant évidemment de "mailler" l’information avec un site sur internet. C’est donc un site "passerelle" vers internet pour un public curieux et désorienté, avide de connaître ce qui se passe "de l’autre côté de l’écran".»</p>
+
+<p>Quatre ans plus tard, en 2003, Zazieweb est devenu un portail avec de multiples services, y compris un annuaire de 5.000 sites littéraires. Des espaces d’échanges et de rencontres «pour lecteurs communicants et actifs» permettent à chacun de poster des nouvelles et des commentaires, avec une communauté active de 10.000 membres appelés e-lecteurs. «Qu’est-ce qu’un e-lecteur? Un e-lecteur est un lecteur actif et communicant qui souhaite échanger, discuter, polémiquer avec d’autres lecteurs. Des espaces et services lui sont dédiés sur Zazieweb, sur le mode interactif du web! Zazieweb se présente comme une interface média qui reconstruit, réinvente les relations entre les gens, entre les textes, entre toutes ces articulations possibles qui existent entre les personnes et les livres.» Zazieweb cesse malheureusement ses activités en 2009.</p>

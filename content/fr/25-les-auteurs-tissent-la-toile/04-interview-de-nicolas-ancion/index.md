@@ -1,0 +1,13 @@
+---
+layout: page
+title: Interview de Nicolas Ancion
+chapter: Les auteurs tissent leur toile
+permalink: /fr/les-auteurs-tissent-la-toile/interview-de-nicolas-ancion/
+order: 2540
+published: true
+---
+<p>Poète et romancier, Nicolas Ancion vit à Madrid. Lui aussi utilise l’internet comme outil de diffusion. Il raconte en avril 2001: «Je publie des textes en ligne, soit de manière exclusive (j’ai publié un polar uniquement en ligne et je publie depuis février 2001 deux romans-feuilletons écrits spécialement pour ce support), soit de manière complémentaire (mes textes de poésie sont publiés sur papier et en ligne). Je dialogue avec les lecteurs et les enseignants à travers mon site web.»</p>
+
+<p>Outre son activité littéraire, Nicolas Ancion est responsable éditorial du secteur électronique de l’éditeur belge Luc Pire lancé en février 2001. Il explique: «Ma fonction est d’une double nature : d’une part, imaginer des contenus pour l’édition numérique de demain et, d’autre part, trouver des sources de financement pour les développer. (...) Je supervise le contenu du site de la maison d’édition et je conçois les prochaines générations de textes publiés numériquement (mais pas exclusivement sur internet).»</p>
+
+<p>Un vaste chantier puisque «l’édition électronique n’en est encore qu’à ses balbutiements. Nous sommes en pleine phase de recherche. Mais l’essentiel est déjà acquis: de nouveaux supports sont en train de voir le jour et cette apparition entraîne une redéfinition du métier d’éditeur. Auparavant, un éditeur pouvait se contenter d’imprimer des livres et de les distribuer. Même s’il s’en défendait parfois, il fabriquait avant tout des objets matériels (des livres). Désormais, le rôle de l’éditeur consiste à imaginer et mettre en forme des contenus, en collaboration avec des auteurs. Il ne fabrique plus des objets matériels, mais des contenus dématérialisés. Ces contenus sont ensuite "matérialisés" sous différentes formes: livres papier, livres numériques, sites web, bases de données, brochures, CD-ROM, bornes interactives. Le département de "production" d’un éditeur deviendrait plutôt un département d’"exploitation" des ressources. Le métier d’éditeur se révèle ainsi beaucoup plus riche et plus large. Il peut amener le livre et son contenu vers de nouveaux lieux, de nouveaux publics. C’est un véritable défi qui demande avant tout de l’imagination et de la souplesse.»</p>

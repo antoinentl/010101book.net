@@ -1,0 +1,17 @@
+---
+layout: page
+title: Le pionnier Éditel
+chapter: CyLibris, éditeur électronique
+permalink: /fr/cylibris/le-pionnier-editel/
+order: 1310
+published: true
+---
+<p>Pierre François Gagnon lance en avril 1995 Éditel, premier éditeur électronique francophone non commercial, un peu plus d’un an avant la création de CyLibris. Ce poète et essayiste québécois décide d’utiliser l’internet et le numérique pour la réception des textes, leur archivage et leur diffusion.</p>
+
+<p>Il relate en juillet 2000: «En fait, tout le monde et son père savent ou devraient savoir que le premier site d’édition en ligne commercial fut CyLibris [créé en août 1996 à Paris par Olivier Gainon, ndlr], précédé de loin lui-même, au printemps de 1995, par nul autre qu’Éditel, le pionnier d’entre les pionniers du domaine, bien que nous fûmes confinés à l’action symbolique collective, faute d’avoir les moyens de déboucher jusqu’ici sur une formule de commerce en ligne vraiment viable et abordable (...). Nous sommes actuellement trois mousquetaires [Pierre François Gagnon, Jacques Massacrier et Mostafa Benhamza, ndlr] à développer le contenu original et inédit du webzine littéraire qui continuera de servir de façade d’animation gratuite, offerte personnellement par les auteurs maison à leur lectorat, à d’éventuelles activités d’édition en ligne payantes, dès que possible au point de vue technico-financier. Est-il encore réaliste de rêver à la démocratie économique?»</p>
+
+<p>Il raconte aussi: «La découverte de quelques amitiés affinitaires, indéfectibles, m'enchante encore, tandis que l'étroitesse de vision, le scepticisme négatif qu'affichait la vaste majorité des auteurs de science-fiction et de fantastique vis-à-vis du caractère pourtant immanent et inéluctable de ce qui n'est après tout qu'un fantasme à la Star Trek, qui hante depuis longtemps l'imaginaire collectif, soit l'e-book tout communicant qui tienne dans le creux de la paume, ne cesse pas de m'étonner et de me laisser pantois rétrospectivement. (…) Je dirai, pour conclure, que je me trouve vraiment fait pour être éditeur en ligne, poète et essayiste, et peut-être même un jour, romancier! Fait à noter, c'est curieusement de la part des poètes, toujours visionnaires quand ils sont authentiques, que le concept de livre numérique a reçu le meilleur accueil!»</p>
+
+<p>Quant à l’avenir, «tout ce que j'espère de mieux pour le petit éditeur indépendant issu, comme Éditel, directement du net et qui cherche à y émerger enfin, c'est que les nouveaux supports de lecture, ouverts et compatibles grâce au standard OeB [Open eBook], s'imposeront d'emblée comme des objets usuels indispensables, c'est-à-dire multifonctionnels et ultramobiles, intégrant à la fois l'informatique, l'électronique grand public et les télécommunications, et pas plus dispendieux qu'une console de jeux vidéo.»</p>
+
+<p>Après avoir été le premier site web d'auto-édition collective de langue française, Éditel devient un site de cyberédition non commerciale, en partenariat avec quelques auteurs «maison», ainsi qu'un webzine littéraire. Un blog lui succède quelques années plus tard, en tant que vitrine de diffusion pour quelques livres. À la suite du pionnier Éditel, des éditeurs naissent directement sur le web pour tenter une aventure inédite. Dans le monde francophone, le premier éditeur électronique commercial est CyLibris, fondé en août 1996. CyLibris est suivi en mai 1998 par 00h00, premier éditeur à publier et commercialiser d’emblée des livres numériques.</p>

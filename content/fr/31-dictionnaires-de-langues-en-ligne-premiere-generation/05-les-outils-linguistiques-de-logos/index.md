@@ -1,0 +1,17 @@
+---
+layout: page
+title: Les outils linguistiques de Logos
+chapter: Dictionnaires de langues en ligne - première génération
+permalink: /fr/dictionnaires-de-langues-en-ligne-premiere-generation/les-outils-linguistiques-de-logos/
+order: 3150
+published: true
+---
+<p>En 1997, la société de traduction Logos décide de mettre ses outils professionnels en accès libre sur le web pour en faire bénéficier la «communauté internet». Fondé en 1979 par Rodrigo Vergara à Modène (Italie), Logos propose des services de traduction dans 35 langues, avec 300 traducteurs travaillant sur place et un réseau mondial de 2.500 traducteurs travaillant en free-lance. La moyenne de production est de 200 textes par jour.</p>
+
+<p>Interviewé par la journaliste Annie Kahn pour un article du quotidien <em>Le Monde</em> du 7 décembre 1997 intitulé <em>Les mots pour le dire</em>, Rodrigo Vergara relate: «Nous voulions que nos traducteurs aient tous accès aux mêmes outils de traduction. Nous les avons donc mis à leur disposition sur internet, et tant qu’à faire nous avons ouvert le site au public. Cela nous a rendus très populaires, nous a fait beaucoup de publicité. L’opération a drainé vers nous de nombreux clients, mais aussi nous a permis d’étoffer notre réseau de traducteurs grâce aux contacts établis à la suite de cette initiative.»</p>
+
+<p>Annie Kahn explique dans l’article: «Le site de Logos est beaucoup plus qu'un dictionnaire ou qu'un répertoire de liens vers d'autres dictionnaires en ligne. L'un des piliers du système est un logiciel de recherche documentaire fonctionnant sur un corpus de textes littéraires disponibles gratuitement sur internet. Lorsque l'on recherche la définition ou la traduction d'un mot, "didactique" par exemple, on trouve non seulement le résultat recherché, mais aussi une phrase d'une œuvre littéraire utilisant ce mot (en l'occurrence, un essai de Voltaire). Un simple clic permet d'accéder au texte intégral de l'œuvre ou de commander le livre grâce à un partenariat avec Amazon.com, le libraire en ligne bien connu. Il en est de même avec les traductions étrangères. Si aucun texte utilisant ce mot n'a été trouvé, le système fonctionne alors comme un moteur de recherche et renvoie aux sites web concernant ce mot. Pour certains termes, il est proposé d'en entendre la prononciation. Si une traduction manque, le système fait un appel au peuple. À chacun d'enrichir la base, les traducteurs de l'entreprise valident ensuite les traductions proposées.»</p>
+
+<p>En septembre 1998, les outils proposés par Logos sont: (a) le Logos Dictionary, un dictionnaire multilingue de 7,5 millions d'entrées; (b) la Wordtheque, une base de données multilingue de 328 millions de termes (constituée à partir de milliers de traductions faites par les traducteurs de Logos), avec recherche possible selon différents critères (langue, mot, auteur ou titre); (c) Linguistic Resources, qui est un point d'accès unique à 553 glossaires; (d) Conjugation of Verbs, qui est un ensemble de tableaux de conjugaison dans 17 langues.</p>
+
+<p>Neuf ans plus tard, en 2007, le Logos Dictionary semble avoir le même nombre d’entrées, mais avec bien davantage de traductions proposées pour chaque entrée, la Wordtheque (devenue la Logos Library) comprend 710 millions de termes, Linguistic Resources offre un point d’accès unique à 1.215 glossaires et Conjugation of Verbs (devenu l’Universal Conjugator) propose des tableaux de conjugaison dans 36 langues.</p>

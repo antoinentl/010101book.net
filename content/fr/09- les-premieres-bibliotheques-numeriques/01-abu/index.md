@@ -1,0 +1,11 @@
+---
+layout: page
+chapter: Les premières bibliothèques numériques
+title: "ABU: la bibliothèque universelle"
+permalink: /fr/les-premieres-bibliotheques-numeriques/abu/
+order: 910
+published: true
+---
+<p>Fondée par l’Association des bibliophiles universels (ABU), séduite par le Projet Gutenberg, la toute première bibliothèque numérique francophone voit le jour en avril 1993 sous le nom «ABU: la bibliothèque universelle», et elle est hébergée par le Centre d’études et de recherche informatique (CEDRIC) du Conservatoire des arts et métiers (CNAM) de Paris. Ce nom ABU est aussi une référence à Aboulafia, petit ordinateur présent dans <em>Le pendule de Foucault</em>, un roman d’Umberto Eco dont l’intrigue se situe justement au CNAM. Quant au nom de l’association, «au départ, il s’agissait de biblioFiles universels, et non de biblioPHiles, mais la préfecture de Paris n’a pas semblé saisir tout le sel de ce néologisme», explique l’ABU sur son site. La bibliothèque permet l'accès libre au texte intégral d'oeuvres du domaine public francophone soit, en chiffres, 223 œuvres de 76 auteurs en 1998 et 288 œuvres de 101 auteurs en 2002.</p>
+
+<p>Dans la foire aux questions (FAQ) présente sur le site, l’ABU donne les neuf conseils suivants – inspirés de ceux du Projet Gutenberg - aux bénévoles souhaitant scanner ou saisir des textes: (1) pas de mise en page, mais un texte en continu avec des lignes d’environ 70 caractères et des sauts de ligne; (2) des sauts de ligne avant chaque paragraphe, y compris pour les dialogues; (3) la transcription du tiret long accompagnant les dialogues par deux petits tirets; (4) des majuscules pour les titres, noms de chapitres et sections, avec un soulignement fait de petits tirets; (5) la transcription des mots en italique par des blancs soulignés; (6) pas de tabulation, mais des blancs; (7) les notes de l’auteur mises entre crochets dans le corps du texte; (8) la pagination de l’édition originale entre crochets (facultatif); (9) l’encodage final en ISO-Latin-1 (extension de l’ASCII pour le français).</p>

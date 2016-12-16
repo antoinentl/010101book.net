@@ -1,0 +1,9 @@
+---
+layout: page
+title: Résumé
+chapter: Dictionnaires de langues en ligne - première génération
+permalink: /fr/dictionnaires-de-langues-en-ligne-premiere-generation/resume/
+order: 3101
+published: true
+---
+<p>De qualité inégale, les premiers dictionnaires de langues en ligne sont répertoriés en 1994 dans Travlang, un site créé par Michael M. Martin pour les voyageurs, et dans la Human-Languages Page, une page créée par Tyler Chambers pour les linguistes. De meilleure qualité, la série suivante de dictionnaires est répertoriée dans yourDictionary, un portail co-fondé par Robert Beard, et dans Dictionnaires électroniques, un répertoire géré par la section française des services linguistiques centraux de l’Administration fédérale suisse. OneLook Dictionaries, créé par Robert Ware, est un moteur de recherche permettant de consulter plusieurs dictionnaires à la fois. Quant aux outils linguistiques, ceux de la société de traduction Logos sont les premiers à être en accès libre, avec dictionnaires, glossaires, grammaires et tableaux de conjugaison dans plusieurs langues. L’amélioration des technologies numériques permet ensuite la gestion de gros dictionnaires de langues et de bases terminologiques multilingues (présentés dans le chapitre suivant).</p>

@@ -1,0 +1,15 @@
+---
+layout: page
+chapter: Le web booste l’internet
+title: Le rêve derrière le web
+permalink: /fr/le-web-booste-l-internet/le-reve-derriere-le-web/
+published: true
+order: 23
+---
+<p>Lors d’une interview menée en décembre 1997 pour <em>La Tribune de Genève</em>, le journaliste Pierre Ruetschi pose à Tim Berners-Lee la question suivante: «Sept ans plus tard, êtes-vous satisfait de la façon dont le web a évolué?». Tim Berners-Lee répond en substance que, s’il est heureux de la richesse et de la variété de l’information disponible, le web n’a pas encore la puissance prévue dans sa conception d’origine. Il aimerait «que le web soit plus interactif, que les gens puissent créer de l’information ensemble», et pas seulement consommer celle qui leur est proposée. Le web doit devenir «un média de collaboration, un monde de connaissance que nous partageons».</p>
+
+<p>Dans <em>The World Wide Web: a very short personal history</em> (Le World Wide Web: une très courte histoire personnelle), un essai qu’il publie en avril 1998 sur sa page web professionnelle, Tim Berners-Lee explique que «le rêve derrière le web est un espace d'information commun dans lequel nous communiquons en partageant l'information. Son universalité est essentielle, à savoir le fait qu'un lien hypertexte puisse pointer sur quoi que ce soit, quelque chose de personnel, de local ou de global, aussi bien une ébauche qu'une réalisation très sophistiquée. Deuxième partie de ce rêve, le web deviendrait d'une utilisation tellement courante qu'il serait un miroir réaliste (sinon la principale incarnation) de la manière dont nous travaillons, jouons et nouons des relations sociales. Une fois que ces interactions seraient en ligne, nous pourrions utiliser nos ordinateurs pour nous aider à les analyser, donner un sens à ce que nous faisons, et voir comment chacun trouve sa place et comment nous pouvons mieux travailler ensemble.» Un souhait qui semble se concrétiser sept ans plus tard avec l’avènement du web 2.0.</p>
+
+<p>Selon Netcraft, société spécialisée dans les mesures d’audience, le nombre de sites web passe d’un million de sites en avril 1997 à dix millions de sites en février 2000, 20 millions de sites en septembre 2000, 30 millions de sites en juillet 2001, 40 millions de sites en avril 2003, 50 millions de sites en mai 2004, 60 millions de sites en mars 2005, 70 millions de sites en août 2005, 80 millions de sites en avril 2006, 90 millions de sites en août 2006 et 100 millions de sites en novembre 2006 - une augmentation rapide qui s’explique par l’explosion des sites personnels et des blogs. On compte près d’un milliard de sites web en mai 2015.</p>
+
+<p>Quinze ans après la création du web, le magazine <em>Wired</em> constate dans son numéro d'août 2005 que «moins de la moitié du web est commercial, le reste fonctionne avec la passion.» Quant à l'internet, d'après le quotidien Le Monde du 19 août 2005, «ses trois pouvoirs - l'ubiquité, la variété et l'interactivité - rendent son potentiel d'usages quasi infini.»</p>

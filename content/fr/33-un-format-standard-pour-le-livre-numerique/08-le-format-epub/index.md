@@ -1,0 +1,11 @@
+---
+layout: page
+title: Le format EPUB
+chapter: Un format standard pour le livre numérique
+permalink: /fr/un-format-standard-pour-le-livre-numerique/le-format-epub/
+order: 3380
+published: true
+---
+<p>L'Open eBook Forum devient l'International Digital Publishing Forum (IDPF) en avril 2005 et le format OeB (voir plus haut la section qui lui est consacrée) laisse la place au format EPUB (acronyme de «Electronic PUBlication») en septembre 2007. Ce nouveau standard est largement utilisé par les éditeurs parce qu’il facilite le reflowing, à savoir la mise en page des livres sur tout appareil de lecture (ordinateur, smartphone, tablette, liseuse) en fonction de la taille de l’écran. L’autre standard étant le PDF, les nouvelles versions d’Adobe Acrobat permettent de créer des fichiers PDF compatibles avec le format EPUB. Le format EPUB est lui-même suivi de versions plus récentes, d’abord l’EPUB2 en mai 2010 puis l’EPUB3 en octobre 2011.</p>
+
+<p>Nicolas Pewny, consultant web et éditions électroniques, précise en octobre 2015: «Totalement différent de celui du PDF, ce format permet d’afficher un texte ajusté au tout dernier moment en fonction de l’écran et des choix du lecteur au moment précis de la lecture. La dernière version standardisée, EPUB3, repose sur HTML5, la dernière révision majeure d'HTML, format de données conçu pour représenter les pages web. Le format EPUB3 peut interroger les fonctionnalités du lecteur via une classe Java Script. Il peut ainsi adapter le contenu avec une grande souplesse. À mon avis, EPUB3 est le meilleur format pour la publication électronique aujourd’hui. Plusieurs applications permettent de créer un fichier EPUB directement, dont des logiciels libres. La plupart des liseuses sont compatibles avec le format EPUB, excepté le Kindle de Amazon, qui nécessite une transformation (par exemple avec le logiciel libre Calibre). Diverses applications de lecture supportant l'EPUB sont également disponibles pour les ordinateurs personnels, les tablettes tactiles et les smartphones.»</p>

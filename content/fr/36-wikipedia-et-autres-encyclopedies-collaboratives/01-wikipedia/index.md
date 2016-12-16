@@ -1,0 +1,15 @@
+---
+layout: page
+title: Wikipédia
+chapter: Wikipédia, et autres encyclopédies collaboratives
+permalink: /fr/wikipedia-et-autres-encyclopedies-collaboratives/wikipedia/
+order: 3610
+published: true
+---
+<p>Lancée en janvier 2001 par Jimmy Wales et Larry Sanger sous la forme d’un wiki – à savoir un site collaboratif -, Wikipédia est une encyclopédie gratuite écrite collectivement et dont le contenu est librement réutilisable par tous. Elle est aussitôt très populaire avant de devenir quelques années plus tard l’un des sites les plus visités du web. Sans publicité et financée par des dons, elle est rédigée par des milliers de volontaires - qui s'inscrivent sous un pseudonyme - avec possibilité d’écrire, de corriger et de compléter les articles, aussi bien les leurs que ceux d'autres contributeurs. Les articles restent la propriété de leurs auteurs et leur libre utilisation est régie par la licence GFDL (GNU Free Documentation License) puis par la licence Creative Commons.</p>
+
+<p>Fondée en juin 2003, la Wikimedia Foundation gère non seulement Wikipédia mais aussi Wiktionary (dictionnaire et thésaurus multilingue), lancé en décembre 2002, Wikibooks (livres et manuels en cours de rédaction) lancé en juin 2003, auxquels s'ajoutent ensuite Wikiquote (répertoire de citations), Wikisource (textes appartenant au domaine public), Wikimedia Commons (sources multimédia), Wikispecies (répertoire d'espèces animales et végétales), Wikinews (site d'actualités) et Wikiversity (matériel pédagogique), lancé en août 2006.</p>
+
+<p>En décembre 2004, Wikipédia compte 1,3 million d’articles rédigés par 13.000 contributeurs dans une centaine de langues. En décembre 2006, l’encyclopédie compte 6 millions d’articles dans 250 langues et devient l'un des dix sites les plus visités du web. En mai 2007, 7 millions d'articles sont disponibles dans 192 langues, dont 1,8 million d’articles en anglais, 589.000 articles en allemand, 500.000 articles en français, 260.000 articles en portugais et 236.000 articles en espagnol. En 2008, le «best of» de la version francophone (2.000 articles environ) est disponible sur CD, quelques mois après le «best of» de la version anglophone (disponible en avril 2007). En 2009, l’encyclopédie est l’un des cinq sites les plus visités du web. En septembre 2010, Wikipédia compte 14 millions d'articles dans 272 langues, dont 3,4 millions d’articles en anglais, 1,1 million d’articles en allemand et 1 million d’articles en français, qui est toujours la troisième langue de l'encyclopédie. Wikipédia fête ses dix ans en janvier 2011 avec 17 millions d’articles dans 270 langues et 400 millions de visiteurs par mois pour l’ensemble de ses sites.</p>
+
+<p>Wikipédia inspire aussi d’autres projets au fil des ans, par exemple Citizendium, lancé en mars 2007 par Larry Sanger en tant qu’encyclopédie collaborative expérimentale au contenu vérifié par des experts, ou encore l’Encyclopedia of Life, un projet global qui voit le jour en mai 2007 pour rassembler les connaissances sur toutes les espèces animales et végétales connues.</p>

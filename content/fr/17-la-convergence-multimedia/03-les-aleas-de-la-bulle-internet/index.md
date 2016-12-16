@@ -1,0 +1,29 @@
+---
+layout: page
+title: Les aléas de la bulle internet
+chapter: "La convergence multimédia: contrats précaires et télétravail"
+permalink: /fr/la-convergence-multimedia/les-aleas-de-la-bulle-internet/
+order: 1730
+published: true
+---
+<p>Des professionnels du livre décident de rejoindre des sociétés informatiques ou alors de se spécialiser au sein de la structure qui les emploie, en devenant par exemple les webmestres de leur librairie, de leur maison d’édition ou de leur bibliothèque. Malgré cela, de nombreux postes disparaissent avec les nouvelles technologies. Les salariés peuvent-ils vraiment se recycler grâce à des formations professionnelles adaptées? À ceci s’ajoutent les contrats précaires et les salaires au rabais.</p>
+
+<p>Pour prendre l’exemple le plus connu, cinq ans après son lancement en 1995, la librairie en ligne Amazon ne fait plus seulement la Une pour son modèle économique mais aussi pour les conditions de travail de son personnel. Malgré la discrétion d’Amazon sur le sujet et les courriers internes adressés aux salariés sur l’inutilité des syndicats au sein de l’entreprise, les problèmes commencent à filtrer. Ils attirent l’attention de l’organisation internationale Prewitt Organizing Fund et du syndicat français SUD PTT Loire Atlantique (SUD: Solidaires unitaires démocratiques – PTT: Poste, télégraphe et téléphone). En novembre 2000,</p>
+
+<p>ces deux organisations débutent une action de sensibilisation commune auprès du personnel d’Amazon France pour les inciter à demander de meilleures conditions de travail et des salaires plus élevés. Des représentants des deux organisations rencontrent une cinquantaine de salariés du centre de distribution de Boigny-sur-Bionne, situé dans la banlieue d’Orléans, au sud de Paris. Dans le communiqué qui suit cette rencontre, SUD PTT dénonce chez Amazon France «des conditions de travail dégradées, la flexibilité des horaires, le recours aux contrats précaires dans les périodes de flux, des salaires au rabais, et des garanties sociales minimales». Le Prewitt Organizing Fund mène ensuite une action similaire dans les deux autres filiales européennes d’Amazon au Royaume-Uni et en Allemagne.</p>
+
+<p>Les problèmes auxquels la «nouvelle» économie doit faire face en l’an 2000 n’arrangent rien. On assiste à l’effondrement des valeurs internet en bourse. Les recettes publicitaires sont moins importantes que prévu, alors qu’elles représentent souvent la principale source de revenus. Dans tous les secteurs, y compris l’industrie du livre, le ralentissement de l’économie entraîne la fermeture d’entreprises ou bien le licenciement d’une partie de leur personnel. C’est le cas par exemple pour Britannica.com en 2000. C’est le cas pour Amazon et pour BOL.fr en 2001. C’est le cas pour Cytale, pour Vivendi et pour Bertelsmann en 2002. C’est enfin le cas pour Gemstar en 2003.</p>
+
+<p>En novembre 2000, la société Britannica.com, qui gère la version web de l’<em>Encyclopædia Britannica</em>, annonce sa restructuration dans l’optique d’une meilleure rentabilité, à savoir le licenciement de 25% du personnel, soit 75 personnes. L’équipe de la version imprimée n’est pas affectée.</p>
+
+<p>En janvier 2001, la librairie Amazon, qui emploie 1.800 personnes en Europe, annonce une réduction de 15% de ses effectifs et la restructuration du service clientèle européen, qui était basé à La Haye (Pays-Bas). Les 240 personnes employées par ce service sont «transférées» dans les centres de Slough (Royaume-Uni) et de Regensberg (Allemagne). Aux États-Unis, dans la maison-mère d’Amazon, suite à un quatrième trimestre 2000 déficitaire, les effectifs sont eux aussi réduits de 15%, ce qui entraîne 1.300 licenciements.</p>
+
+<p>En juillet 2001, après deux ans d’activité, la librairie en ligne française BOL.fr ferme définitivement ses portes. Créé par Bertelsmann et Vivendi, BOL.fr faisait partie du réseau européen de librairies BOL.com (BOL: Bertelsmann OnLine).</p>
+
+<p>En avril 2002, la société française Cytale, qui avait lancé en janvier 2001 le Cybook, une tablette de lecture, doit se déclarer en cessation de paiement, suite à des ventes très inférieures aux pronostics, d’une part à cause du prix élevé de la tablette et d’autre part parce que le marché n’est pas encore prêt à ces nouveaux usages. L’administrateur ne parvenant pas à trouver un repreneur, Cytale est mis en liquidation judiciaire en juillet 2002 et cesse ses activités. Le Cybook est ensuite repris par la société Bookeen, fondée en 2003 par deux anciens ingénieurs de Cytale.</p>
+
+<p>En juillet 2002, la démission forcée de Jean-Marie Messier, PDG de Vivendi Universal, multinationale basée à Paris et à New York, marque l’arrêt des activités fortement déficitaires de Vivendi liées à l’internet et au multimédia, et la restructuration de la société vers des activités plus traditionnelles.</p>
+
+<p>En août 2002, la multinationale allemande Bertelsmann décide de mettre un frein à ses activités internet et multimédias afin de réduire son endettement. Bertelsmann se recentre lui aussi sur le développement de ses activités traditionnelles, notamment sa maison d’édition Random House et l’opérateur européen de télévision RTL.</p>
+
+<p>En juin 2003, Gemstar, société américaine spécialisée dans les produits et services numériques pour les médias, décide de mettre un terme à toute son activité eBook, à savoir la vente de ses tablettes de lecture Gemstar eBook puis celle de ses livres numériques le mois suivant. Cette cessation d’activité sonne également le glas de 00h00, pionnier de l’édition en ligne commerciale, fondé à Paris en mai 1998 et racheté par Gemstar en septembre 2000.</p>

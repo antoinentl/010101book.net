@@ -1,0 +1,9 @@
+---
+layout: page
+title: Paulo Coelho
+chapter: D'autres auteurs de best-sellers suivent
+permalink: /fr/d-autres-auteurs-de-best-sellers-suivent/paulo-coelho/
+order: 2930
+published: true
+---
+<p>Une autre expérience est celle du romancier brésilien Paulo Coelho, devenu mondialement célèbre après la parution de <em>L’Alchimiste</em>. Début 2003, ses livres, traduits en 56 langues, ont été vendus en 53 millions d’exemplaires dans 155 pays, dont 6,5 millions d’exemplaires dans les pays francophones. En mars 2003, Paulo Coelho décide de distribuer plusieurs de ses romans gratuitement en version PDF, en diverses langues, avec l'accord de ses éditeurs respectifs, dont Anne Carrière, son éditrice en France. Trois romans sont disponibles en français: <em>Manuel du guerrier de la lumière</em>, <em>La cinquième montagne</em> et <em>Veronika décide de mourir</em>. Pourquoi une telle décision? L’auteur déclare à la même date par le biais de son éditrice: «Comme le français est présent, à plus ou moins grande échelle, dans le monde entier, je recevais sans cesse des courriers électroniques d'universités et de personnes habitant loin de la France, qui ne trouvaient pas mes œuvres.» À la question classique relative au préjudice éventuel sur les ventes futures, l’auteur répond: «Seule une minorité de gens a accès à l'internet, et le livre au format ebook ne remplacera jamais le livre papier.» Une remarque très juste en 2003, mais qui n'est peut-être plus de mise ensuite. Paulo Coehlo réitère toutefois l’expérience au printemps 2011 avec de nouveaux titres, pour la plus grande joie de ses lecteurs.</p>

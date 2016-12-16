@@ -1,0 +1,15 @@
+CACHE MANIFEST
+# rev 5
+CACHE:
+/icon.png
+/fr/index.html
+/fr/introduction/index.html
+/fr/le-projet-gutenberg/resume/index.html
+/fr/le-projet-gutenberg/les-mille-premiers-livres/index.html
+/fr/le-projet-gutenberg/de-mille-a-dix-mille-livres/index.html
+/fr/le-projet-gutenberg/de-dix-mille-a-vingt-mille-livres/index.html
+/fr/le-projet-gutenberg/de-vingt-mille-a-cinquante-mille-livres/index.html
+/fr/le-projet-gutenberg/chronologie-du-projet-gutenberg/index.html
+/css/style.css
+NETWORK:
+*

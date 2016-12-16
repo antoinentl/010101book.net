@@ -1,0 +1,21 @@
+---
+layout: page
+chapter: Le web booste l’internet
+title: Le web 2.0
+permalink: /fr/le-web-booste-l-internet/le-web-2-0/
+published: true
+order: 28
+---
+<p>Le terme «web 2.0» est lancé par Tim O’Reilly, fondateur des éditions O'Reilly Media, comme titre d'une série de conférences qu'il est en train d'organiser. Désormais, le web ne vise plus seulement à utiliser l’information, mais il incite aussi les usagers à échanger et collaborer en ligne. Alors que le web original ressemblait un peu à un grand livre composé de pages reproduisant les modèles connus de l’édition papier, le web 2.0 accueille une nouvelle génération de sites interactifs, par exemple des blogs, des wikis, des sites sociaux et des encyclopédies participatives telles que Wikipédia. Certains parlent de World Live Web («live» signifiant «vivant» en anglais) au lieu de World Wide Web, le nom d’origine du web.</p>
+
+<p>Les blogs font littéralement exploser le nombre de pages web en quelques années. Le premier blog serait apparu en 1997. En 2004, le site du quotidien <em>Le Monde</em> lance ses propres blogs, «un formidable format d'expression journalistique qui permet un dialogue quasi-instantané avec son lecteur», selon Yann Chapellon, directeur du Monde interactif. Le moteur de recherche de blogs Technorati recense 14 millions de blogs dans le monde en juillet 2005, avec 80.000 nouveaux blogs par jour, et 65 millions de blogs en décembre 2006, avec 175.000 nouveaux blogs par jour. On a aussi des photoblogs, des audioblogs (ou podcasts) et des vidéoblogs (ou vlogs).</p>
+
+<p>Au blog se juxtapose le wiki – issu du terme hawaïen «vite» -, un modèle de site collaboratif dont l’exemple phare est Wikipédia. Le wiki est utilisé par exemple pour créer et gérer des sites d’information, des dictionnaires ou des encyclopédies. Le programme présent derrière l'interface est plus ou moins élaboré. Un programme simple gère des textes et des hyperliens. Un programme élaboré permet d'inclure des images, des graphiques, des tableaux, etc.</p>
+
+<p>Arrivent ensuite Facebook, Twitter, Tumblr et quelques autres. Créé en février 2004 par Mark Zuckerberg, Facebook est destiné à l'origine aux étudiants de Harvard puis aux étudiants de toutes les universités américaines avant de s’ouvrir au monde en septembre 2006. En juin 2010, Facebook devient le deuxième site mondial en nombre de visites (après Google) et fête ses 500 millions d'usagers tout en suscitant des débats sur le respect de la vie privée.</p>
+
+<p>Twitter dispatche l'information en 140 caractères maximum. Lancé en juin 2006, cet outil de micro-blogging devient vite très populaire avec 106 millions d'usagers en avril 2010 et 300.000 nouveaux usagers par jour. Ces usagers envoient 5.000 tweets par jour en 2007, 300.000 tweets par jour en 2008, 2,5 millions de tweets par jour en 2009, 50 millions de tweets par jour en janvier 2010 et 55 millions de tweets par jour en avril 2010, avec un archivage systématique des tweets à usage public par la Library of Congress en tant que reflet des tendances de notre époque. Après un premier partenariat entre Twitter et Google en décembre 2011 pour l’inclusion des tweets publics dans les résultats de recherche de Google, un deuxième partenariat suit en mai 2015 pour une meilleure visibilité de ces tweets.</p>
+
+<p>Quant à Tumblr, il s’agit d’une plateforme de microblogging créée en février 2007 pour permettre aux usagers de poster texte, images, vidéos et liens. Tumblr est racheté par Yahoo! en mai 2013 et inaugure un nouveau logo en septembre 2013.</p>
+
+<p>Dès 2007, on évoque déjà la possibilité d’un web 3.0. Ce web du futur serait un web sémantique capable d’apporter une réponse complète à une requête exprimée en langage courant, en faisant appel à des procédés d’intelligence artificielle qui seraient appliqués à large échelle. D’après la société Radar Networks, il s’agirait d’«un web doté d'une forme d'intelligence artificielle globale et collective». Des données pourraient être rassemblées sur les nombreux réseaux sociaux et participatifs existant sur le web. Elles pourraient être traitées automatiquement après avoir été structurées sur la base du langage descriptif RDF (Resource Description Framework) développé par le W3C.</p>

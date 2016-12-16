@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<main class="main">
+{{ content }}
+{% assign sortedPages = site.pages | sort:'order' | where: 'published', true %}{% for p in sortedPages %}{% if p.url == page.url %}{% if forloop.first == false %}{% assign prevIndex = forloop.index0 | minus: 1 %}
+  <div title="Partie précédente" rel="prev">
+    <a href="{{site.baseurl}}{{sortedPages[prevIndex].url}}">&lt; Précédent</a>
+</div>{% endif %}{% if forloop.last == false %}{% assign nextIndex = forloop.index0 | plus: 1 %}
+  <div title="Partie suivante" rel="next">
+    <a href="{{site.baseurl}}{{sortedPages[nextIndex].url}}">Suivant ></a>
+  </div>{% endif %}{% endif %}{% endfor %}
+</main>

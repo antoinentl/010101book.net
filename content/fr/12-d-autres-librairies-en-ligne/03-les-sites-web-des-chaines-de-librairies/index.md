@@ -1,0 +1,15 @@
+---
+layout: page
+title: Les sites web des chaînes de librairies
+chapter: D'autres librairies en ligne et «en dur»
+permalink: /fr/d-autres-librairies-en-ligne/les-sites-web-des-chaines-de-librairies/
+order: 1230
+published: true
+---
+<p>Qu’en est-il des librairies traditionnelles? À la fin des années 1990, plusieurs chaînes de librairies montent une librairie en ligne à côté de leur réseau de librairies «en dur». C’est le cas par exemple pour la Fnac, France Loisirs, le Furet du Nord et Decitre.</p>
+
+<p>En 1997, le site web de la Fnac ouvre sur le logo «fnac» blanc et ocre bien connu. Présente en France, en Belgique et en Espagne, la Fnac, selon ses propres termes, se veut à la fois défricheur, agitateur culturel et commerçant, avec «une politique commerciale fondée sur l’alliance avec le consommateur, sa vocation culturelle et sa volonté de découvrir les nouvelles technologies». La Fnac crée donc à la fois un magazine littéraire en ligne et un secteur de «commerce électronique» permettant de commander livres, disques, vidéos et CD-ROM par internet, minitel ou téléphone. La livraison est possible en France comme à l’étranger. Les modes de paiement sont la carte de crédit ou le chèque à la commande.</p>
+
+<p>Le Furet du Nord est une chaîne de librairies implantée dans le Nord de la France et dont le siège est à Lille. Son site permet de consulter un catalogue de 250.000 livres et de les commander en ligne. Il propose aussi «un suivi permanent de l’actualité littéraire». Dès 1998, la vente à distance représente 15 à 20% du chiffre d’affaires total de l’entreprise. Les meilleurs clients sont les écoles, les universités, les comités d’entreprise et les ambassades.</p>
+
+<p>Decitre est une chaîne de librairies de la région Rhône-Alpes. Ses neuf librairies sont particulièrement dynamiques dans le domaine de l’informatique, du multimédia et de l’internet, avec des présentations régulières de nouveaux CD-ROM et des initiations à l’internet. Après une première mouture en 1996, le site est remanié en décembre 1997. Muriel Goiran, libraire à Decitre, explique en juin 1998: «Notre site est pour l’instant juste un moyen de communication de plus (par le biais du mail) avec nos clients des magasins et nos clients bibliothèques et centres de documentation. Nous avons découvert son importance en organisant DocForum, le premier forum de la documentation et de l’édition spécialisée, qui s’est tenu à Lyon en novembre 1997. Il nous est apparu clairement qu’en tant que libraires, nous devions avoir un pied dans le net. Internet est très important pour notre avenir. Nous allons mettre en ligne notre base de 400.000 livres français à partir de fin juillet 1998, et elle sera en accès gratuit pour des recherches bibliographiques. Ce ne sera pas une n-ième édition de la base de Planète Livre, mais notre propre base de gestion, que nous mettons sur internet.»</p>

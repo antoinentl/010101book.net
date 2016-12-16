@@ -1,0 +1,13 @@
+---
+layout: page
+title: Plastic Logic
+chapter: Le papier électronique
+permalink: /fr/le-papier-electronique/plastic-logic/
+order: 4640
+published: true
+---
+<p>Fondée en 2000, la société britannique Plastic Logic se spécialise d’emblée dans le développement et la production de papier électronique utilisant sa technologie FlexEnable. Avec un poids infime de 62 grammes (un quotidien imprimé de taille moyenne pèse 375 grammes), son écran souple à matrice active devrait avoir au départ quatre niveaux de gris. Le fait de plier le support souple permettrait de passer d’une page à l’autre, avec téléchargement des livres et journaux via la WiFi. En janvier 2007, Plastic Logic annonce la construction de son premier site de production de papier électronique dans la région de Dresde, en Allemagne, avec début de production en 2008, d’abord en noir et blanc et ensuite en couleur.</p>
+
+<p>D’après Jean-Paul, auteur hypermédia, interviewé en janvier 2007, «on progresse. Les PDA et autres baladeurs multimédia ont formé le public à manipuler des écrans tactiles de dimension individuelle (par opposition aux bornes publiques de circulation et autres tirettes-à-sous). L’hypermédia est maintenant une évidence. Il ne reste plus qu’à laisser se bousculer les ingénieurs et les marketteurs pour voir sortir un objet rentable, léger, attirant, peu fragile, occupant au mieux l’espace qui sépare les deux mains d’un terrien assis dans le bus ou sur sa lunette WC: la surface d’une feuille A4 en format italien, soit ± 800x600 pixels. Bien sûr, ce que montrera cette surface ne sera pas en 2D mais en 3D. Comme les GPS prochaine génération, ou les écrans de visée sur le cockpit d'un Air-Bus ou d'une auto-autonome (aka: auto-car).»</p>
+
+<p>Interviewé de nouveau en mai 2015, Jean-Paul ajoute: «Huit ans après, mai 2015, on y est, presque. Tablettes, liseuses, fablettes, smart-fones, montres connectées... se sont libérés du format A4. L'hypermedie est partout. Mais, ô ingénieurs de tous poils, il vous reste encore un effort si vous voulez être résolument modernes: la 3D. Non pas cette simulation dont l'épure la plus aboutie demeure à mes yeux le fameux clip (qui date de... 1999) <em>The Child</em> d'H5, en typographie animée. Aboutie, mais plate. Même les jeux vidéo massivement multi-joueurs les plus interactifs ne sont qu'une illusion de 3D. Impossible de s'évader du rectangle. On joue sur un écran: 2D et un point de fuite pour l'illusion du relief. J'attends l'hologramme, la sculpture dont on peut faire le tour, dans laquelle on peut entrer, qu'on peut modifier d'un geste. Vendez-moi la fiole connectée d'Alice pour ouvrir le terrier magique.»</p>

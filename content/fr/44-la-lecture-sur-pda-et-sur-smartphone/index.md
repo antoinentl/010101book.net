@@ -1,0 +1,9 @@
+---
+layout: page
+title: La lecture sur PDA et sur smartphone
+permalink: /fr/la-lecture-sur-pda-et-sur-smartphone/
+order: 4400
+---
+<p>En avril 2001, on compte 17 millions de PDA dans le monde pour seulement 100.000 tablettes de lecture, d'après un Seybold Report disponible en ligne. 13,2 millions de PDA sont vendus en 2001. Le premier PDA du marché est le Palm Pilot, lancé en mars 1996, avec 23 millions de Palm Pilot vendus entre 1996 et 2002. Suit le Pocket PC de Microsoft en mars 2000 avec son logiciel de lecture Microsoft Reader. À la même date, les modèles du vétéran Psion sont toujours en bonne place et Franklin sort l’eBookMan, un PDA multimédia. Les systèmes d'exploitation utilisés sont essentiellement le Palm OS (pour 55% des PDA) et le Pocket PC (pour 25,7% des PDA). Le PDA laisse ensuite progressivement la place au smartphone, dont le modèle précurseur est le Nokia 9210 lancé en novembre 2000 et dont le modèle phare est l’iPhone d’Apple lancé en juin 2007.</p>
+
+<p>Le livre numérique - commercial ou non - est d’abord lisible sur un écran d’ordinateur, portable ou non, tout simplement. En 2001, certains sont également tentés par la lecture sur le webpad, un ordinateur-écran sans disque dur disposant d’une connexion sans fil à l’internet. En 2002, d’autres optent pour la lecture sur la Tablet PC, une tablette informatique pourvue d’un écran tactile. Lorsque le livre numérique commence à se généraliser, les fabricants de PDA décident d’intégrer un logiciel de lecture en plus des fonctionnalités standard (agenda, dictaphone, lecteur de MP3, etc.). En parallèle, ils négocient les droits de diffusion numérique de centaines de titres, soit directement soit par le biais de librairies numériques. Si certains professionnels du livre s’inquiètent de la petitesse de l’écran, les adeptes de la lecture sur PDA assurent que la taille de l’écran n’est pas un problème.</p>

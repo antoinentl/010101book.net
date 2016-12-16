@@ -1,0 +1,11 @@
+---
+layout: page
+title: Interview de Marie-Joseph Pierre
+chapter: Vers de nouvelles méthodes d'enseignement
+permalink: /fr/vers-de-nouvelles-methodes-d-enseignement/interview-de-marie-joseph-pierre/
+order: 1470
+published: true
+---
+<p>Enseignante-chercheuse à l’École pratique des hautes études (EPHE, Paris-Sorbonne) dans la section des sciences religieuses, Marie-Joseph Pierre écrit en février 2003: «Il me paraît évident que la publication des articles et ouvrages au moins scientifiques se fera de plus en plus sous forme numérique, ce qui permettra aux chercheurs d’avoir accès à d’énormes banques de données, constamment et immédiatement évolutives, permettant en outre le contact direct et le dialogue entre les auteurs. Nos organismes de tutelle, comme le CNRS [Centre national de la recherche scientifique] par exemple, ont déjà commencé à contraindre les chercheurs à publier sous ce mode, et incitent fortement les laboratoires à diffuser ainsi leurs recherches pour qu’elles soient rapidement disponibles. Nos rapports d’activité à deux et à quatre ans – ces énormes dossiers peineux résumant nos labeurs – devraient prochainement se faire sous cette forme. Le papier ne disparaîtra pas pour autant, et je crois même que la consommation ne diminuera pas... Car lorsqu'on veut travailler sur un texte, le livre est beaucoup plus maniable. Je m’aperçois dans mon domaine que les revues qui ont commencé récemment sous forme numérique commencent à être aussi imprimées et diffusées sur papier dignement relié. Le passage de l’un à l’autre peut permettre des révisions et du recul, et cela me paraît très intéressant.»</p>
+
+<p>D’autres chercheurs privilégient la diffusion en ligne, les tirages imprimés restant toujours possibles à titre ponctuel. Certaines universités diffusent des manuels «sur mesure» - numériques ou imprimés - composés d’un choix de chapitres et d’articles sélectionnés dans une base de données, auxquels s’ajoutent les commentaires des professeurs. Pour un séminaire, un très petit tirage peut être fait à la demande, à partir de documents transmis par voie électronique à un imprimeur. Certaines revues scientifiques ayant opté pour une publication en ligne passent un partenariat avec une société spécialisée se chargeant des impressions à la demande.</p>

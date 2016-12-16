@@ -1,0 +1,35 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="manifest" href="/manifest.json">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+
+  <meta property="DC.creator" content="Lebert, Marie" />
+  <meta property="DC.publisher" content="Fauchié, Antoine" />
+  <meta property="DC.language" content="fr" />
+  <meta property="DC.title" content="{{ site.title }}" />
+  <meta property="DC.description" content="{{ site.description }}" />
+  <meta property="DC.rights" content="CC BY-NC-SA" />
+  <meta property="DC.date" content="2016" />
+
+  <meta property="og:title" content="Le livre 010101 (1971-2015)"/>
+  <meta property="og:description" content="{{ site.description }}"/>
+  <meta property="og:site_name" content="Le livre 010101 (1971-2015)"/>
+  <meta property="og:type" content="books.book"/>
+  <meta property="og:books:author" content="https://marielebert.wordpress.com/" />
+  <meta property="og:image" content="/icon.png"/>
+  
+  <meta property="twitter:card" content="summary"/>
+  <meta name="twitter:domain" content="010101book.net" />
+  <meta property="twitter:site" content="@antoinentl"/>
+  <meta property="twitter:description" content="{{ site.description }}"/>
+  <meta property="twitter:title" content="Le livre 010101 (1971-2015)"/>
+  <meta property="twitter:url" content="https://www.010101book.net/fr/"/>
+  <meta property="twitter:image" content="/icon.png"/>
+  <link rel="stylesheet" href="/css/style.css">
+  <!--<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"> -->
+</head>

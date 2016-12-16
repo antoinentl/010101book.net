@@ -1,0 +1,17 @@
+---
+layout: page
+title: La diffusion libre du savoir en hausse
+chapter: Conclusion
+permalink: /fr/conclusion/la-diffusion-libre-du-savoir-en-hausse/
+order: 4730
+published: true
+---
+<p>Si nous avons maintenant Gallica, le Projet Gutenberg, l'Internet Archive et bien d’autres bibliothèques numériques pour lire des livres, Wikipédia pour nous documenter et Facebook et Twitter pour communiquer, nous avons aussi une pléthore d’encyclopédies, de dictionnaires et de cours mis gratuitement en ligne par des organismes de renom. Wikipédia ouvre la voie en 2001 en lançant une encyclopédie écrite collectivement, avec possibilité de corriger et compléter les articles, et dont le contenu est librement réutilisable, sans compter les versions dans de nombreuses langues. Suivent en 2007 d'autres encyclopédies collaboratives gérées par des experts, telles Citizendium et l'Encyclopedia of Life.</p>
+
+<p>En 2003, le MIT (Massachusetts Institute of Technology) débute son OpenCourseWare, avec accès libre et gratuit, pour y proposer le matériel pédagogique de nombreux cours, à savoir des textes de conférences, des travaux pratiques, des exercices et corrigés, des bibliographies, des documents audio et vidéo, etc. Cet exemple est suivi par une centaine d’universités un an plus tard. Entre 2003 et 2007, La Public Library of Science (PLOS) lance des revues scientifiques et médicales en ligne de haut niveau. Diffusées gratuitement, elles ont maintenant une réputation d’excellence équivalente à celle des meilleures revues scientifiques payantes. Les</p>
+
+<p>universités ouvrent des archives ouvertes pour y proposer les articles de leurs professeurs et chercheurs, à commencer par Harvard avec DASH (Digital Access to Scholarship at Harvard) et le MIT (Massachusetts Institute of Technology) avec MIT@space. Des organismes aussi bien publics que privés proposent une infrastructure pour la publication de revues scientifiques ouvertes, par exemple OpenEdition pour les revues francophones en sciences humaines.</p>
+
+<p>La diffusion libre du savoir touche aussi les monographies scientifiques. Au lieu de vendre quelques dizaines ou centaines de livres et de toucher des droits d’auteur souvent insignifiants, l’auteur – souvent chercheur ou professeur - choisit de les mettre en accès libre pour élargir son lectorat, tout en échappant aux contraintes imposées par les éditeurs commerciaux. À chacun de choisir s’il veut céder les droits de ses travaux, gagner quelques euros et n’être lu par (presque) personne, ou s’il préfère garder le copyright de ses écrits, être largement diffusé et ne rien gagner, sous-entendu ne pas gagner d’argent, parce qu’en fait il gagne le plus important, à savoir le fait d’être lu et de partager un savoir.</p>
+
+<p>La diffusion libre du savoir n’est toutefois possible que parce qu’il existe en amont des organismes financeurs, par exemple des universités ou des centres de recherche. Lorsqu’elle n’est pas financée à l’amont, une petite équipe (rémunérée) est relayée par un vaste réseau de volontaires (bénévoles) gagnant leur vie par ailleurs et décidant de consacrer une partie de leur temps à une activité qu’ils estiment importante pour le bien de la collectivité. C’est le cas du Projet Gutenberg, grande bibliothèque d’œuvres littéraires du domaine public au format texte, ou de Bookshare, grande bibliothèque numérique destinée aux personnes ayant un problème visuel. C’est aussi le cas de très nombreux projets collaboratifs tels que Wikipédia et bien d’autres.</p>

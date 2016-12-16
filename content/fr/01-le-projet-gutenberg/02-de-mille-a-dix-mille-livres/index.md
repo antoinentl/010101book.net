@@ -1,0 +1,25 @@
+---
+layout: page
+title: De mille à dix mille livres
+chapter: Le projet Gutenberg
+permalink: /fr/le-projet-gutenberg/de-mille-a-dix-mille-livres/
+order: 12
+published: true
+---
+<p>Michael Hart écrit en août 1998: «Mon projet est de mettre 10.000 textes électroniques sur l’internet. [Ce sera chose faite en octobre 2003, ndlr.] Si je pouvais avoir des subventions importantes, j’aimerais aller jusqu’à un million et étendre aussi le nombre de nos usagers potentiels de 1,x% à 10% de la population mondiale, ce qui représenterait la diffusion de mille fois un milliard de textes électroniques au lieu d’un milliard seulement.»</p>
+
+<p>La production est de 36 livres par mois entre 1998 et 2000. <em>Don Quijote</em> de Cervantès (paru en 1605) devient l’eBook #2000 en mai 1999, dans sa langue originale, en espagnol. Le troisième volume de <em>À l’ombre des jeunes filles en fleurs</em> de Marcel Proust (paru en 1919) devient l’eBook #3000 en décembre 2000, dans sa langue originale, en français.</p>
+
+<p>La moyenne de production passe à 104 livres par mois en 2001. <em>The French Immortals Series</em> (La série des Immortels français) devient l’eBook #4000 en octobre 2001, dans sa version anglaise. Publié en 1905 à Paris par la Maison Mazarin, ce livre rassemble plusieurs fictions d’écrivains couronnés par l’Académie française, comme Emile Souvestre, Pierre Loti, Hector Malot, Charles de Bernard, Alphonse Daudet, etc. <em>The Notebooks of Leonardo da Vinci</em> (Les Carnets de Léonard de Vinci), qui datent du début du 16e siècle, deviennent l’eBook #5000 en avril 2002. Un texte qui se trouve toujours dans le Top 100 des livres téléchargés.</p>
+
+<p>En 1988, Michael Hart choisit de numériser <em>Alice’s Adventures in Wonderland</em> et <em>Peter Pan</em> parce que, dans l’un et l’autre cas, leur version numérisée tient sur une disquette de 360 Ko, le standard de l’époque. Quinze ans plus tard, en 2002, on dispose non seulement de disquettes de 1,44 Mo (méga-octets) mais aussi de disques durs, et on peut aisément compresser les fichiers en les zippant. Un fichier standard peut désormais supporter trois millions de caractères, plus qu’il n’en faut pour un livre de taille moyenne. Un roman de 300 pages numérisé au format ASCII représente un méga-octet. Un livre volumineux tient dans deux fichiers ASCII, téléchargeables tels quels ou en version zippée. Cinquante heures environ sont nécessaires pour sélectionner un livre de taille moyenne, vérifier qu’il est bien du domaine public, le scanner, corriger la version scannée au regard de la version originale, formater le fichier corrigé, le mettre en page et le mettre en ligne.</p>
+
+<p>Quelques numéros de livres sont réservés pour l’avenir, par exemple le futur eBook #1984 pour le roman éponyme de George Orwell, publié en 1949, et qui est donc loin d’être tombé dans le domaine public.</p>
+
+<p>1.000 livres en août 1997, 2.000 livres en mai 1999, 3.000 livres en décembre 2000, 4.000 livres en octobre 2001, 5.000 livres en avril 2002. Au printemps 2002, les collections du Projet Gutenberg représentent le quart des œuvres du domaine public en accès libre sur le web, répertoriées de manière quasi exhaustive par l’Internet Public Library (IPL-Bibliothèque publique de l’internet), un beau résultat dû au patient travail de centaines de volontaires actifs dans plusieurs pays. Les collections s’accroissent de 203 titres par mois en 2002.</p>
+
+<p>En juillet 1971, l’envoi d’un fichier de 5 Ko à cent personnes aurait fait sauter l’embryon de réseau disponible à l’époque. En novembre 2002, le Projet Gutenberg peut mettre en ligne les 75 fichiers du <em>Human Genome Project</em> (Projet génome humain – à savoir le séquençage du génome humain), chaque fichier se chiffrant en dizaines sinon en centaines de méga-octets. Ceci peu de temps après sa parution initiale en février 2001, puisqu’il appartient d’emblée au domaine public.</p>
+
+<p>Entre avril 2002 et octobre 2003, les collections doublent, passant de 5.000 à 10.000 livres en dix-huit mois. La moyenne mensuelle est de 348 livres numérisés en 2003. <em>Magna Carta</em>, qui fut le premier texte constitutionnel anglais signé en 1215, devient l’eBook #10000 en octobre 2003. Cette croissance rapide est due à l’activité de Distributed Proofreaders, un site lancé en octobre 2000 par Charles Franks pour permettre la relecture partagée des livres. Les volontaires choisissent un livre en cours de traitement pour relire et corriger une page donnée – la page numérisée en mode image de la version imprimée et la page convertie en mode texte par un logiciel OCR étant en vis-à-vis sur l’écran.</p>
+
+<p>Après un CD Best of Gutenber<em>g</em> disponible en août 2003 avec une sélection de 600 livres, la quasi-totalité des livres disponibles (à l’exception des livres sous droits) - soit 9.400 ebooks - est gravée sur un DVD en décembre 2003. CD et DVD sont envoyés gratuitement à qui en fait la demande. Libre ensuite à chacun d’en faire des copies et de les distribuer autour de soi.</p>

@@ -1,0 +1,15 @@
+---
+layout: page
+title: Les premiers smartphones
+chapter: La lecture sur PDA et sur smartphone
+permalink: /fr/la-lecture-sur-pda-et-sur-smartphone/les-premiers-smartphones/
+order: 4460
+published: true
+---
+<p>Le premier smartphone est le Nokia 9210, modèle précurseur lancé en novembre 2000 par la société finlandaise Nokia, grand fabricant mondial de téléphones portables. Appelé aussi téléphone multimédia, téléphone multifonctions ou encore téléphone intelligent, le smartphone dispose d’un écran couleur, du son polyphonique et de la fonction appareil photo, qui viennent s'ajouter aux fonctions habituelles du PDA (agenda, dictaphone, lecteur de musique, logiciel de lecture, etc.). Apparaissent ensuite le Nokia Series 60, le Sony Ericsson P800, puis les modèles de Motorola et de Siemens. Ces différents modèles permettent de lire des livres numériques sur le Mobipocket Reader. Les smartphones représentent 3,7% des ventes de téléphones portables en 2004 et 9% des ventes en 2006 – date à laquelle notre planète compterait 90 millions de smartphones pour un milliard de téléphones portables.</p>
+
+<p>Si les livres numériques ont une longue vie devant eux, les appareils de lecture risquent de muer régulièrement. Selon Denis Zwirn, président de la librairie numérique Numilog, interviewé en février 2003, «l’équipement des individus et des entreprises en matériel pouvant être utilisé pour la lecture numérique dans une situation de mobilité va continuer de progresser très fortement dans les dix prochaines années sous la forme de machines de plus en plus performantes (en terme d’affichage, de mémoire, de fonctionnalités, de légèreté...) et de moins en moins chères. Cela prend dès aujourd’hui la forme de PDA (Pocket PC et Palm Pilot), de tablettes PC et de smartphones, ou de smart displays (écrans tactiles sans fil). Trois tendances devraient être observées: la convergence des usages (téléphone/PDA), la diversification des types et tailles d’appareils (de la montre-PDA-téléphone à la tablette PC waterproof), la démocratisation de l’accès aux machines mobiles (des PDA pour enfants à 15 euros). Si les éditeurs et les libraires numériques savent en saisir l’opportunité, cette évolution représente un environnement technologique et culturel au sein duquel les livres numériques, sous des formes variées, peuvent devenir un mode naturel d’accès à la lecture pour toute une génération.»</p>
+
+<p>À la même date, on se demande si les tablettes dédiées pourront vraiment réussir à s’imposer face aux smartphones multifonctions.</p>
+
+<p>On se demande aussi s'il existe une clientèle spécifique pour les deux types d’appareils, la lecture sur smartphone étant destinée au grand public, et la lecture sur tablette étant réservée aux gros consommateurs de documents que sont les lycéens, les étudiants, les professeurs, les chercheurs ou les juristes. Tous pronostics qui s’avèreront faux.</p>

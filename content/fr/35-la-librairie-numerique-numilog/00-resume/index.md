@@ -1,0 +1,11 @@
+---
+layout: page
+title: Résumé
+chapter: La librairie numérique Numilog
+permalink: /fr/la-librairie-numerique-numilog/resume/
+order: 3501
+published: true
+---
+<p>Fondée par Denis Zwirn, la librairie Numilog ouvre ses portes virtuelles en décembre 1999 pour vendre exclusivement des livres numériques, par téléchargement et dans plusieurs formats. Créée quelques mois auparavant, la société du même nom a une triple activité: librairie en ligne, studio de fabrication et diffuseur. Le catalogue de Numilog comprend 3.500 titres (livres et revues) en français et en anglais en 2003 et 35.000 titres en décembre 2006. En janvier 2009, Numilog est un distributeur-diffuseur numérique représentant une centaine d’éditeurs francophones et anglophones, avec un catalogue de 50.000 livres numériques et des services spécifiques pour les bibliothèques et les librairies. Numilog gère entre autres (depuis janvier 2006) la Bibliothèque numérique pour le Handicap (BnH).</p>
+
+<p>Les librairies en ligne vendront-elles un jour le texte intégral des livres en version électronique?, se demande-t-on depuis le milieu des années 1990. Dans ce cas, l’inévitable délai dû à l’envoi postal disparaîtra, puisque les fichiers électroniques pourront parvenir au lecteur de manière quasi instantée via l’internet. Deux ans plus tard, c’est chose faite avec le lancement des premières librairies numériques. Ces librairies numériques sont soit de nouveaux secteurs accolés à des librairies en ligne existantes (par exemple les eBookStores d’Amazon, Barnes &amp; Noble.com ou Yahoo!) soit de nouvelles librairies dédiées d’emblée à la vente de livres numériques (par exemple Numilog ou la librairie de Mobipocket).</p>

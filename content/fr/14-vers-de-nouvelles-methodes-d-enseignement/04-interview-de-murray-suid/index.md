@@ -1,0 +1,9 @@
+---
+layout: page
+title: Interview de Murray Suid
+chapter: Vers de nouvelles méthodes d'enseignement
+permalink: /fr/vers-de-nouvelles-methodes-d-enseignement/interview-de-murray-suid/
+order: 1440
+published: true
+---
+<p>Murray Suid vit à Palo Alto, dans la Silicon Valley, en Californie. Il est l’auteur de livres pédagogiques, de livres pour enfants, d’œuvres multimédias et de scénarios. En septembre 1998, il préconise une solution choisie depuis par de nombreux auteurs: «Un livre peut avoir un prolongement sur le web – et donc vivre en partie dans le cyberespace. L’auteur peut ainsi aisément l’actualiser et le corriger, alors qu’auparavant il devait attendre longtemps, jusqu’à l’édition suivante, quand il y en avait une.» Et pour ses propres livres? «Je ne sais pas si je publierai des livres sur le web, au lieu de les publier en version imprimée. J’utiliserai peut-être ce nouveau support si les livres deviennent multimédias. Pour le moment, je participe au développement de matériel pédagogique multimédia. C’est un nouveau type de matériel qui me plaît beaucoup et qui permet l’interactivité entre des textes, des films, des bandes sonores et des graphiques qui sont tous reliés les uns aux autres.» Un an plus tard, en août 1999, il ajoute: «En plus des livres complétés par un site web, je suis en train d’adopter la même formule pour mes œuvres multimédias - qui sont sur CD-ROM - afin de les actualiser et d’enrichir leur contenu.» En octobre 2000, l’intégralité de ses œuvres multimédias est sur le réseau et le matériel pédagogique auquel il contribue est conçu non plus pour une diffusion sur CD-ROM, mais pour une diffusion directe sur le web. D’entreprise multimédia, EDVantage Software, la société de logiciels éducatifs qui emploie Murray Suid, est devenue une entreprise internet qui distribue désormais toutes ses publications en ligne.</p>

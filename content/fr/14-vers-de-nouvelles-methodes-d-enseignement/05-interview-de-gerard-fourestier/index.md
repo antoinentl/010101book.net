@@ -1,0 +1,15 @@
+---
+layout: page
+title: Interview de Gérard Fourestier
+chapter: Vers de nouvelles méthodes d'enseignement
+permalink: /fr/vers-de-nouvelles-methodes-d-enseignement/interview-de-gerard-fourestier/
+order: 1450
+published: true
+---
+<p>Créé en 1998 par Gérard Fourestier, diplômé en science politique et professeur de français à Nice, le site Rubriques à Bac est à destination des lycéens futurs bacheliers et des étudiants en début de cursus universitaire. ELLIT (Eléments de littérature) propose des centaines d’articles sur la littérature française du 12e siècle à nos jours, ainsi qu’un répertoire d’auteurs. RELINTER (Relations internationales) propose 2.000 liens sur le monde contemporain depuis 1945. Ces deux bases de données sont disponibles sur abonnement payant, avec version de démonstration en accès libre. Lancé en juin 2001 dans le prolongement d’ELLIT, la base de données Bac-L (baccalauréat section lettres) est en accès libre.</p>
+
+<p>Gérard Fourestier raconte en octobre 2000: «Rubriques à Bac a été créé pour répondre au besoin de trouver sur le net, en un lieu unique, l’essentiel, suffisamment détaillé et abordable par le grand public, dans le but: (a) de se forger avant tout une culture tout en préparant à des examens probatoires à des études de lettres - c’est la raison d’ELLIT (Eléments de littérature), base de données en littérature française; (b) de comprendre le monde dans lequel nous vivons en en connaissant les tenants et les aboutissants, d’où RELINTER (Relations internationales). J’ai développé ces deux matières car elles correspondent à des études que j’ai, entre autres, faites en leur temps, et parce qu’il se trouve que, depuis une dizaine d’années, j’exerce des fonctions de professeur dans l’enseignement public (18 établissements de la 6e aux terminales de toutes sections et de tous types d’établissements). (...)</p>
+
+<p>Mon activité liée à internet consiste tout d’abord à en sélectionner les outils, puis à savoir les manier pour la mise en ligne de mes travaux et, comme tout a un coût et doit avoir une certaine rentabilité, organiser le commercial qui permette de dégager les recettes indispensables; sans parler du butinage indispensable pour la recherche d’informations qui seront ensuite traitées. (...) Mon initiative à propos d’internet n’est pas directement liée à mes fonctions de professeur. J’ai simplement voulu répondre à un besoin plus général et non pas étroitement scolaire, voire universitaire. Débarrassé des contraintes du programme, puisque j’agis en mon nom et pour mon compte et non "es-qualité", mais tout en donnant la matière grise qui me paraît indispensable pour mieux faire une tête qu’à la bien remplir, je laisse à d’autres le soin de ne préparer qu’à l’examen.»</p>
+
+<p>Gérard Fourestier ajoute quinze ans plus tard, en juin 2015: «Nous continuons toujours l'aventure numérique avec différentes autres publications électroniques comme par exemple Analyses littéraires, un site spécialisé à destination des professeurs et de leurs élèves dans le domaine de l'analyse de textes littéraires.»</p>

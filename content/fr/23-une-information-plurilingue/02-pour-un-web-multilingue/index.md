@@ -1,0 +1,13 @@
+---
+layout: page
+title: Pour un web multilingue
+chapter: Une information plurilingue
+permalink: /fr/une-information-plurilingue/pour-un-web-multilingue/
+order: 2320
+published: true
+---
+<p>Yoshi Mikami, informaticien à Fujisawa (Japon), lance dès décembre 1995 la page web «The Languages of the World by Computers and the Internet» (Les langues du monde par les ordinateurs et l'internet), communément appelée Logos Home Page ou Kotoba Home Page. Cette page donne un bref historique de chaque langue, ses caractéristiques, son système d'écriture, son jeu de caractères et enfin la configuration du clavier dans la langue donnée. Fort de cette expérience, Yoshi Mikami co-écrit (avec Kenji Sekine et Nobutoshi Kohara) le livre <em>Pour un web multilingue</em>, publié en août 1997 en japonais par O'Reilly Media avant d'être traduit en anglais, en allemand et en français en 1998.</p>
+
+<p>Yoshi Mikami explique en décembre 1998: «Ma langue maternelle est le japonais. Comme j'ai suivi mes études de troisième cycle aux États-Unis et que j'ai travaillé dans l'informatique, je suis devenu bilingue japonais/anglais américain. J'ai toujours été intéressé par différentes langues et cultures, aussi j'ai appris le russe, le français et le chinois dans la foulée. À la fin de 1995, j'ai créé sur le web la page "The Languages of the World by Computers and the Internet" et j'ai tenté de proposer - en anglais et en japonais - un bref historique de toutes ces langues, ainsi que les caractéristiques propres à chaque langue et à sa phonétique. Suite à l'expérience acquise, j'ai invité mes deux associés à se joindre à moi pour écrire un livre sur la conception, la création et la présentation de pages web multilingues, livre qui fut publié en août 1997 [en japonais, ndlr] sous le titre <em>Pour un web multilingue</em>, le premier livre au monde sur un tel sujet.»</p>
+
+<p>Comment Yoshi Mikami voit-il l'évolution vers un web multilingue? «Il y a des milliers d'années de cela, en Égypte, en Chine et ailleurs, les gens étaient plus sensibles au fait de communiquer leurs lois et leurs réflexions non seulement dans une langue mais aussi dans plusieurs langues. Dans notre monde moderne, chaque État a adopté plus ou moins une seule langue de communication. À mon avis, l'internet verra l'utilisation plus grande de langues différentes et de pages multilingues (et pas seulement une gravitation autour de l'anglais américain) et un usage plus créatif de la traduction informatique multilingue. 99% des sites web créés au Japon sont en japonais!»</p>

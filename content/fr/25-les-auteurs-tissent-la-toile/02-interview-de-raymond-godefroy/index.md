@@ -1,0 +1,11 @@
+---
+layout: page
+title: Interview de Raymond Godefroy
+chapter: Les auteurs tissent leur toile
+permalink: /fr/les-auteurs-tissent-la-toile/interview-de-raymond-godefroy/
+order: 2520
+published: true
+---
+<p>En 1999, Raymond Godefroy, poète-paysan normand, désespérait de trouver un éditeur pour son nouveau recueil de fables, <em>Fables pour l’an 2000</em>. Quelques jours avant l'an 2000, Nicolas Pewny, fondateur des éditions du Choucas, publie son recueil en ligne avec accès libre et gratuit. Le Choucas est une maison d’édition spécialisée dans les romans policiers, la littérature, la photographie et les livres d’art. Bien qu’étant d’abord un éditeur à vocation commerciale, Nicolas Pewny tient aussi à avoir des activités non commerciales pour faire connaître des auteurs peu diffusés.</p>
+
+<p>Enthousiaste à la vue de ses fables dans une belle version numérique, Raymond Godefroy écrit en décembre 1999: «Internet représente pour moi un formidable outil de communication qui nous affranchit des intermédiaires, des barrages doctrinaires et des intérêts des médias en place. Soumis aux mêmes lois cosmiques, les hommes, pouvant mieux se connaître, acquerront peu à peu cette conscience du collectif, d’appartenir à un même monde fragile pour y vivre en harmonie sans le détruire. Internet est absolument comme la langue d’Ésope, la meilleure et la pire des choses, selon l’usage qu’on en fait, et j’espère qu’il me permettra de m’affranchir en partie de l’édition et de la distribution traditionnelle qui, refermée sur elle-même, souffre d’une crise d’intolérance pour entrer à reculons dans le prochain millénaire.» Très certainement autobiographique, la fable <em>Le poète et l’éditeur</em> (la sixième fable de la troisième partie du recueil) relate on ne peut mieux les affres du poète à la recherche d’un éditeur. Raymond Godefroy restant très attaché au papier, il auto-publie la version imprimée de ses fables en juin 2001, avec un titre légèrement différent, <em>Fables pour les années 2000</em>, puisque le cap du 21e siècle<em> </em>est désormais franchi.</p>

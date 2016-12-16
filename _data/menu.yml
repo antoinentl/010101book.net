@@ -1,0 +1,15 @@
+- text: À propos de ce livre
+  url: /a-propos/
+- text: Chronologie du livre numérique
+  url: /chronologie/
+- text: Introduction
+  url: /introduction/
+- text: Le Projet Gutenberg, un projet visionnaire
+  url: /le-projet-gutenberg/
+  subitems:
+    - text: Résumé
+      url: /le-projet-gutenberg/resume/
+    - text: Les mille premiers livres
+      url: /le-projet-gutenberg/les-mille-premiers-livres/
+    - text: De mille à dix mille livres
+      url: /le-projet-gutenberg/de-mille-a-dix-mille-livres/

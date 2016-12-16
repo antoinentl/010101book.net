@@ -1,0 +1,21 @@
+---
+layout: page
+title: L’importance de la législation
+chapter: Le livre numérique pour les personnes en situation de handicap
+permalink: /fr/le-livre-numerique-pour-les-personnes-en-situation-de-handicap/l-importance-de-la-legislation/
+order: 3830
+published: true
+---
+<p>Dans de nombreux pays, y compris en France, malgré l’existence d’un matériel informatique adapté, l’édition braille reste encore confidentielle sinon clandestine au début des années 2000, le problème des droits d’auteur sur les transcriptions n’étant pas résolu. Et les livres en gros caractères et sur cassettes restent peu nombreux par rapport aux milliers de titres paraissant chaque année, malgré les efforts dispensés par les éditeurs spécialisés et les organismes bénévoles.</p>
+
+<p>Directeur de la communication de l’association Handicapzéro, Patrice Cailleaud explique en janvier 2001 que, si le livre numérique est «une nouvelle solution complémentaire aux problèmes des personnes aveugles et malvoyantes, (...) les droits et autorisations d’auteurs demeurent des freins pour l’adaptation en braille ou caractères agrandis d’ouvrage. Les démarches sont saupoudrées, longues et n’aboutissent que trop rarement.»</p>
+
+<p>Richard Chotin, professeur à l’École supérieure des affaires (ESA) de Lille, relate en mai 2001: «Ma fille vient d’obtenir la deuxième place à l’agrégation de lettres modernes. Un de ses amis a obtenu la maîtrise de conférence en droit et un autre a soutenu sa thèse de doctorat en droit également. Outre l’aspect performance, cela prouve au moins que, si les aveugles étaient réellement aidés (tous les aveugles n’ont évidemment pas la chance d’avoir un père qui peut passer du temps et consacrer de l’argent) par des méthodes plus actives dans la lecture des documents (obligation d’obtenir en braille ce qui existe en "voyant" notamment), le handicap pourrait presque disparaître.»</p>
+
+<p>Cinq ans plus tard, la loi du 1er août 2006 sur le droit d'auteur et droits voisins dans la société de l'information - plus simplement appelée loi DADVSI - prévoit l'exception au droit d'auteur en faveur des personnes handicapées, exception qui permet d'adapter à moindre coût des œuvres originales en fonction de certains handicaps pour offrir des versions numériques braille et audio. Il reste à appliquer cette loi à large échelle. La loi DADVSI émane elle-même d’une directive entérinée en mai 2001, la directive 2001/29/CE de la Commission européenne sur «l’harmonisation de certains aspects du droit d’auteur et des droits voisins dans la société de l’information» - plus simplement appelée directive EUCD (European Union Copyright Directive). Cette directive insiste dans son article 43 sur la nécessité pour les États membres d’adopter «toutes les mesures qui conviennent pour favoriser l’accès aux œuvres pour les personnes souffrant d’un handicap qui les empêche d’utiliser les œuvres elles-mêmes, en tenant plus particulièrement compte des formats accessibles».</p>
+
+<p>En France, il existe plusieurs initiatives, par exemple le serveur Hélène créé en novembre 2001 par l’association BrailleNet pour proposer des livres numériques permettant des impressions en braille ou en gros caractères. Le serveur Hélène est suivi de la Bibliothèque Hélène, qui ouvre en janvier 2006 avec des livres pour la jeunesse puis des livres de littérature générale, mais dont les frais d’accès sont élevés.</p>
+
+<p>Une autre réalisation est la Bibliothèque numérique pour le Handicap (BnH), qui voit le jour en janvier 2006 à l’initiative de la ville de Boulogne-Billancourt (en région parisienne) et sous l'égide d'Alain Patez, bibliothécaire numérique chargé de mission pour la BnH. La plateforme de la BnH est gérée par la librairie numérique Numilog, avec inscription annuelle gratuite pour les particuliers comme pour les institutions (voir sa présentation dans le chapitre consacré à Numilog). En septembre 2007, l'accès à la BnH est généralisé à</p>
+
+<p>toutes les personnes en situation de handicap (aveugles et malvoyants, sourds et malentendants, handicapés moteurs, handicapés psychiques et mentaux). La BnH devient ensuite une plateforme nationale multimédia de livres numériques (aux formats EPUB et PDF) et de livres audio (au format WMA) téléchargeables pour une durée de trois semaines.</p>

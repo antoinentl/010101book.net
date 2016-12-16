@@ -1,0 +1,11 @@
+---
+layout: page
+title: De nouveaux horizons pour les auteurs
+chapter: Conclusion
+permalink: /fr/conclusion/de-nouveaux-horizons-pour-les-auteurs/
+order: 4720
+published: true
+---
+<p>L’auto-édition en ligne n’est plus le parent pauvre de l’édition. Elle est devenue un choix pour éviter de devoir argumenter avec un éditeur traditionnel dont les exigences ne correspondent plus à notre temps. Des auteurs sont tout simplement heureux de voir leurs textes publiés en ligne – y compris par eux-mêmes – et lus par des lecteurs avides, enthousiastes et exigeants qui ne choisissent pas leurs lectures en fonction de la dernière liste de best-sellers, mais qui les choisissent dans une profusion de fictions, de documentaires, d’études généralistes et d’articles scientifiques disponibles en ligne. De plus en plus d’auteurs ne se soucient même plus du fait que leurs textes auraient pu être acceptés par un éditeur traditionnel, dont ils jugent le modèle complètement dépassé.</p>
+
+<p>L’internet renouvelle aussi la manière d’écrire. Webmestre du site hypermédia Cotres.net, Jean-Paul relate en juin 2000: «L’internet n’a pas changé ma vie, mais mon rapport à l’écriture. On n’écrit pas de la même manière pour un site que pour un scénario, une pièce de théâtre, etc. (...) Depuis, j’écris (compose, mets en page, en scène) directement à l’écran.» Lucie de Boutiny, romancière multimédia, écrit à la même date: «Depuis l’archaïque minitel si décevant en matière de création télématique, c’est bien la première fois que, via le web, dans une civilisation de l’image, l’on voit de l’écrit partout présent 24 heures/24, 7 jours/7. Je suis d’avis que si l’on réconcilie le texte avec l’image, l’écrit avec l’écran, le verbe se fera plus éloquent, le goût pour la langue plus raffiné et communément partagé.» De l’avis de Jean-Pierre Balpe, directeur du département hypermédia de l’Université Paris 8, interviewé en février 2002, «les technologies numériques sont une chance extraordinaire du renouvellement du littéraire».</p>

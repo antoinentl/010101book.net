@@ -1,0 +1,11 @@
+---
+layout: page
+title: La gamme Psion
+chapter: La lecture sur PDA et sur smartphone
+permalink: /fr/la-lecture-sur-pda-et-sur-smartphone/la-gamme-psion/
+order: 4410
+published: true
+---
+<p>Lancé dès 1984 par la société britannique Psion, le Psion Organiser est le premier modèle d'agenda électronique. Au fil des ans, la gamme des appareils (agendas et PDA) s’étend et la société se développe à l’international. En 2000, les divers modèles (Série 7, Série 5mx, Revo, Revo Plus) sont concurrencés par le Palm Pilot et le Pocket PC. Les ventes baissent et Psion décide de diversifier ses activités. Suite au rachat de Teklogix, Psion crée Psion Teklogix en septembre 2000 pour développer des solutions mobiles sans fil à destination des entreprises. Psion Software est lancé en 2001 pour développer des logiciels pour la nouvelle génération d’appareils mobiles utilisant la plateforme Symbian OS.</p>
+
+<p>Enseignante-chercheuse à l’École pratique des hautes études (EPHE, Paris-Sorbonne), Marie-Joseph Pierre utilise un Psion pour lire et étudier dans le train lors de ses fréquents déplacements entre Argentan (Normandie), sa ville de résidence, et Paris. Elle achète son premier Psion en 1997, un Série 3, remplacé ensuite par un Série 5, remplacé lui-même par un Psion 5mx en juin 2001. Elle raconte en février 2002: «J’ai chargé tout un tas de trucs littéraires – dont mes propres travaux et dont la Bible entière – sur mon Psion 5mx (16 + 16 Mo), que je consulte surtout dans le train ou pour mes cours, quand je ne peux pas emporter toute une bibliothèque. J’ai mis les éléments de programme qui permettent de lire page par page comme sur un véritable ebook. Ce qui est pratique, c’est de pouvoir charger une énorme masse documentaire sur un support minuscule. Mais ce n’est pas le même usage qu’un livre, surtout un livre de poche qu’on peut feuilleter, tordre, sentir..., et qui s’ouvre automatiquement à la page qu’on a aimée. C’est beaucoup moins agréable à utiliser, d’autant que sur PDA, la page est petite: on n’a pas de vue d’ensemble. Mais avec une qualité appréciable: on peut travailler sur le texte enregistré, en rechercher le vocabulaire, réutiliser des citations, faire tout ce que permet le traitement informatique du document, et cela m’a pas mal servi pour mon travail, ou pour mes activités associatives.»</p>

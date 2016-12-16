@@ -1,0 +1,15 @@
+---
+layout: page
+chapter: L'Internet dans les bibliothèques "en dur"
+title: Le cyberespace de la Bibliothèque des Nations Unies
+permalink: /fr/l-internet-dans-les-bibliotheques/la-cyberespace-de-la-bibliotheque-des-nations-unies/
+order: 1020
+published: true
+---
+<p>L’internet peut aussi relancer les bibliothèques traditionnelles, aussi grandes et prestigieuses soient-elles, par exemple la Bibliothèque de l’Organisation des Nations Unies à Genève (ONUG), sise dans l’imposant Palais des Nations, entre le Lac Léman et le quartier des organisations internationales.</p>
+
+<p>En juillet 1997, à l’initiative de Pierre Pelou, son directeur, la bibliothèque ouvre un cyberespace de vingt-quatre postes informatiques en libre accès avec connexion à l’internet. Aménagé au premier étage de la bibliothèque par Antonio Bustamante, architecte au Palais des Nations, ce cyberespace est mis gratuitement à la disposition des représentants des missions permanentes, délégués de conférences, fonctionnaires internationaux, chercheurs, étudiants, journalistes, membres des professions libérales, ingénieurs et techniciens, sans sélection par le rang, chose assez rare dans ce milieu. Le premier arrivé est le premier servi.</p>
+
+<p>Les vingt-quatre stations du cyberespace comprennent chacune un ordinateur multimédia, un lecteur de CD-ROM et un casque individuel. Chaque groupe de trois ordinateurs est relié à une imprimante laser. Chaque ordinateur permet de consulter l’internet. Le traitement de texte proposé est WordPerfect. Sont disponibles aussi les services suivants: (a) le système optique des Nations Unies; (b) un serveur regroupant une cinquantaine de CD-ROM en réseau; (c) la banque de données UNBIS (United Nations Bibliographic Information System – Système d’information bibliographique des Nations Unies), coproduite par les deux bibliothèques des Nations Unies à New York et à Genève; (d) le catalogue de la Bibliothèque de l’Office des Nations Unies à Genève; (e) Profound, ensemble de banques de données économiques et commerciales; (f) RERO, le catalogue du Réseau romand des bibliothèques suisses (qui comprend le catalogue de la Bibliothèque des Nations Unies de Genève à titre de bibliothèque associée); (g) plusieurs CD-Rom multimédia (Encarta 97, L’État du monde, Élysée 2, Nuklear, etc.); (h) des vidéocassettes multistandards et des DVD présentant des programmes, films et documentaires sur l’action internationale et l’action humanitaire.</p>
+
+<p>Très rapidement, de l’avis du personnel de la bibliothèque, «la consultation électronique induit une plus grande consultation imprimée et un renforcement de toutes les formes de recherche.» Dépassant les prévisions les plus optimistes, ce cyberespace joue le rôle de catalyseur, amenant un public nouveau, jeune, varié et enthousiaste à consulter les collections de la bibliothèque et à utiliser ses autres services. Suite au succès du premier cyberespace, un deuxième cyberespace ouvre en avril 1998 deux étages plus haut, avec six postes informatiques et une vue imprenable sur le lac Léman et la chaîne des Alpes.</p>
